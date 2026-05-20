@@ -1,0 +1,601 @@
+id_pedido,cliente_id,nome_cliente,email,produto,categoria,quantidade,preco_unitario,desconto,data_pedido,estado,status,avaliacao
+PED-0001,CLI-1488,Diego Souza,diego.souza65@gmail.com,iPhone 14,Eletronicos,5,1262.21,0.09,31-03-2023,Rio,Pendente,1
+PED-0002,CLI-6635,Ana Silva,ana.silva94@gmail.com,Samsung TV 55,Mobile,6,1425.46,0.22,2024-01-25,GO,Entregue,
+PED-0003,CLI-8428,Fabio Lima,fabio.lima21@gmail.com,Tablet Samsung,Informatica,2,276.83,0.24,2023-08-27,PR,Entregue,4
+PED-0004,CLI-1525,ana silva,ana.silva35gmail.com,Samsung TV 55,Mobile,7,1386.24,0.09,2023-11-29,S P,pendente,6
+PED-0005,CLI-3266,Bruno Costa,bruno.costa97gmail.com,Samsung TV 55,Acessorios,3,1270.81,0.32,13/02/2024,Sao Paulo,ENTREGUE,2
+PED-0006,CLI-9797,Fabio Lima,fabio.lima15@gmail.com,Webcam Logitech,Mobile,10,4980.8,0.39,12-01-2023,SP,Cancelado,0
+PED-0007,,Fabio Lima,fabio.lima40@gmail.com,iPhone 14,Acessorios,9,3064.4,0.03,2024-06-27,S P,Entregue,2
+PED-0008,CLI-4295,ana silva,ana.silva86@gmail.com,Monitor LG 24,Informatica,3,3315.77,0.05,2024-03-09,rj,devolvido,
+PED-0009,CLI-6413,Diego Souza,diego.souza36@gmail.com,Notebook Dell,TV e Video,9,1189.07,0.1,2023-08-23,MG,devolvido,N/A
+PED-0010,CLI-2612,Fabio Lima,fabio.lima14@gmail.com,Fone JBL,Eletronicos,2,3311.96,0.17,25-02-2023,sp,ENTREGUE,4
+PED-0011,CLI-8956,ana silva,,iPhone 14,Mobile,,534.65,0.37,2023-04-06,GO,Cancelado,5
+PED-0012,CLI-1821,Carla  Mendes,carla..mendes68@gmail.com,Webcam Logitech,TV e Video,8,816.24,0.03,04-03-2023,RJ,ENTREGUE,4
+PED-0013,CLI-4346,Fabio Lima,fabio.lima31@gmail.com,Webcam Logitech,Eletronicos,10,1268.77,0.18,19/06/2024,Sao Paulo,Cancelado,2
+PED-0014,CLI-2127,Fabio Lima,fabio.lima37@gmail.com,Notebook Dell,Mobile,10,4992.35,0.24,2023-09-29,Rio,Cancelado,0
+PED-0015,CLI-5462,Diego Souza,diego.souza92@gmail.com,Notebook Dell,TV e Video,5,4662.19,0.1,20-04-2023,PR,devolvido,1
+PED-0016,CLI-8007,Bruno Costa,bruno.costa10@gmail.com,iPhone 14,Mobile,5,268.23,0.33,15-06-2023,MG,entregue,3
+PED-0017,CLI-2684,Carla  Mendes,carla..mendes53@gmail.com,Webcam Logitech,Informatica,1,1575.88,0.39,2024-01-02,BA,ENTREGUE,N/A
+PED-0018,CLI-2771,Ana Silva,ana.silva61@gmail.com,Notebook Dell,Informatica,6,3922.81,0.12,12/09/2023,sp,pendente,4
+PED-0019,CLI-9785,Ana Silva,ana.silva15@gmail.com,Fone JBL,Eletronicos,4,2022.41,0.02,26-12-2023,S P,Cancelado,
+PED-0020,CLI-9518,Carla  Mendes,carla..mendes88@gmail.com,Teclado Mecanico,Mobile,10,4921.97,0.15,15-02-2023,Sao Paulo,cancelado,
+PED-0021,CLI-3085,ana silva,ana.silva87@gmail.com,Tablet Samsung,Acessorios,2,3612.78,0.16,17-02-2024,S P,Cancelado,5
+PED-0022,CLI-3780,Elisa Ferreira,elisa.ferreira66@gmail.com,Mouse Logitech,Informatica,7,3939.51,0.27,07-08-2023,RJ,cancelado,4
+PED-0023,CLI-7291,Diego Souza,,Samsung TV 55,Eletronicos,1,1261.97,0.09,29-02-2024,RJ,Pendente,0
+PED-0024,CLI-8251,Carla  Mendes,carla..mendes55@gmail.com,SSD 1TB,Eletronicos,9,1283.53,0.18,27-06-2024,MG,devolvido,5
+PED-0025,CLI-3471,Carla Mendes,carla.mendes91@gmail.com,Monitor LG 24,Mobile,4,1409.26,0.17,24-11-2023,RS,devolvido,N/A
+PED-0026,CLI-7865,Carla  Mendes,carla..mendes78@gmail.com,Webcam Logitech,TV e Video,,4290.82,0.19,27/12/2023,PR,Pendente,N/A
+PED-0027,CLI-3223,Carla Mendes,carla.mendes07@gmail.com,Samsung TV 55,Mobile,3,4904.57,0.14,2023-01-28,sp,pendente,5
+PED-0028,CLI-1659,Diego Souza,diego.souza26@gmail.com,Webcam Logitech,Acessorios,2,2378.02,0.19,18-08-2023,BA,ENTREGUE,4
+PED-0029,CLI-1420, Diego Souza,diego.souza87@gmail.com,SSD 1TB,Acessorios,6,880.56,0.03,17/06/2023,Rio,cancelado,4
+PED-0030,CLI-2129,Fabio Lima,fabio.lima02@gmail.com,iPhone 14,Acessorios,,4037.36,0.38,29/06/2024,RJ,Pendente,6
+PED-0031,CLI-5397,Diego Souza,diego.souza12@gmail.com,Samsung TV 55,Mobile,3,3682.29,0.13,10/05/2024,sp,Pendente,
+PED-0032,CLI-4130,ana silva,ana.silva63@gmail.com,Samsung TV 55,Mobile,4,1806.38,1.94,N/A,sp,devolvido,N/A
+PED-0033,CLI-5438,Diego Souza,diego.souza16@gmail.com,Fone JBL,Acessorios,10,1876.65,0.08,05/12/2023,Rio,ENTREGUE,5
+PED-0034,CLI-9751,Ana Silva,ana.silva07@gmail.com,Tablet Samsung,TV e Video,10,1450.84,1.93,N/A,MG,devolvido,6
+PED-0035,CLI-1878, Diego Souza,diego.souza39@gmail.com,SSD 1TB,Acessorios,3,4829.21,0.24,08/03/2023,rj,Pendente,4
+PED-0036,CLI-2625,Diego Souza,diego.souza81@gmail.com,Monitor LG 24,Mobile,8,4547.1,0.07,03-03-2023,MG,cancelado,1
+PED-0037,CLI-2166,Elisa Ferreira,elisa.ferreira81@gmail.com,Webcam Logitech,Mobile,10,,0.05,17-10-2023,BA,Pendente,3
+PED-0038,CLI-5982,Elisa Ferreira,elisa.ferreira65@gmail.com,Mouse Logitech,Informatica,2,345.21,0.36,23/10/2023,S P,entregue,5
+PED-0039,CLI-3870,BRUNO COSTA,bruno.costa36@gmail.com,Notebook Dell,Eletronicos,4,4811.46,0.39,N/A,Sao Paulo,devolvido,N/A
+PED-0040,CLI-2442,Fabio Lima,fabio.lima15@gmail.com,Teclado Mecanico,Acessorios,2,4295.78,0.26,N/A,rj,entregue,N/A
+PED-0041,CLI-5719,BRUNO COSTA,bruno.costa16gmail.com,Notebook Dell,Informatica,9,1840.81,2.11,28/07/2023,BA,ENTREGUE,4
+PED-0042,CLI-8736,Carla  Mendes,carla..mendes19@gmail.com,iPhone 14,Mobile,2,3256.16,0.35,07/10/2023,rj,ENTREGUE,N/A
+PED-0043,CLI-8935,Carla  Mendes,carla..mendes98@gmail.com,Teclado Mecanico,TV e Video,5,4111.72,0.39,2024-05-16,RS,cancelado,N/A
+PED-0044,CLI-3068, Diego Souza,diego.souza43@gmail.com,Fone JBL,Mobile,1,1624.97,0.21,05/06/2023,sp,Entregue,3
+PED-0045,CLI-9742,Fabio Lima,fabio.lima81@gmail.com,Webcam Logitech,Informatica,2,2373.98,0.25,24/03/2023,rj,entregue,5
+PED-0046,,Ana Silva,ana.silva38@gmail.com,Fone JBL,Eletronicos,7,4892.77,0.23,20-06-2023,BA,Pendente,3
+PED-0047,CLI-5161,Ana Silva,ana.silva60@gmail.com,Samsung TV 55,Eletronicos,10,4360.66,0.18,2023-05-27,MG,Entregue,5
+PED-0048,CLI-5847,Elisa Ferreira,elisa.ferreira03@gmail.com,Webcam Logitech,Acessorios,8,4234.25,0.23,31/08/2023,PR,entregue,1
+PED-0049,CLI-3240,Ana Silva,,Tablet Samsung,Mobile,5,3889.92,0.04,14-07-2023,RS,ENTREGUE,N/A
+PED-0050,CLI-8894,Elisa Ferreira,elisa.ferreira96@gmail.com,Samsung TV 55,Informatica,3,3943.24,0.06,2023-10-07,sp,Entregue,N/A
+PED-0051,CLI-5295,Fabio Lima,fabio.lima14@gmail.com,Monitor LG 24,Acessorios,2,,0.37,10/04/2024,S P,pendente,2
+PED-0052,CLI-9807,BRUNO COSTA,bruno.costa48@gmail.com,SSD 1TB,Acessorios,,,0.23,2024-05-19,rj,Pendente,N/A
+PED-0053,CLI-6942,Fabio Lima,fabio.lima70@gmail.com,iPhone 14,Mobile,10,-2070.17,0.11,30/03/2024,SP,Pendente,6
+PED-0054,CLI-4394,Diego Souza,diego.souza43@gmail.com,iPhone 14,Informatica,10,,0.11,09-05-2023,S P,entregue,3
+PED-0055,CLI-3854,Carla Mendes,carla.mendes95@gmail.com,Monitor LG 24,Acessorios,3,594.14,0.18,01-09-2023,RJ,devolvido,2
+PED-0056,CLI-1510,BRUNO COSTA,bruno.costa52@gmail.com,SSD 1TB,TV e Video,4,,0.03,17/06/2024,Rio,devolvido,3
+PED-0057,CLI-8048,Bruno Costa,bruno.costa84@gmail.com,iPhone 14,Informatica,5,3140.37,0.17,27/06/2024,Rio,cancelado,N/A
+PED-0058,CLI-8770,Bruno Costa,bruno.costa12@gmail.com,Teclado Mecanico,Mobile,7,2109.15,0.22,2024-01-19,RS,ENTREGUE,0
+PED-0059,CLI-6761,Carla  Mendes,carla..mendes28@gmail.com,Monitor LG 24,Acessorios,2,2083.5,0.34,22/02/2023,RJ,pendente,5
+PED-0060,,Elisa Ferreira,elisa.ferreira90@gmail.com,Tablet Samsung,Informatica,7,4233.52,0.07,27-01-2023,RS,entregue,N/A
+PED-0061,CLI-6314, Diego Souza,diego.souza77@gmail.com,iPhone 14,Informatica,1,504.2,0.27,11/06/2023,MG,entregue,N/A
+PED-0062,CLI-8972,Elisa Ferreira,elisa.ferreira06@gmail.com,SSD 1TB,TV e Video,8,2100.21,0.08,24/04/2023,SP,entregue,3
+PED-0063,CLI-6802,Ana Silva,ana.silva56gmail.com,Mouse Logitech,Acessorios,6,643.92,0.23,29-06-2024,RS,Pendente,N/A
+PED-0064,CLI-2734, Diego Souza,diego.souza52@gmail.com,Mouse Logitech,Eletronicos,7,153.24,0.09,2024-01-06,PR,pendente,2
+PED-0065,CLI-5193, Diego Souza,diego.souza20@gmail.com,Monitor LG 24,Eletronicos,9,2574.26,0.19,2023-06-01,MG,devolvido,6
+PED-0066,CLI-5500,Fabio Lima,fabio.lima65gmail.com,Tablet Samsung,TV e Video,6,4328.02,0.15,28-03-2024,SP,entregue,2
+PED-0067,CLI-4084,BRUNO COSTA,bruno.costa65@gmail.com,Tablet Samsung,TV e Video,9,1953.19,0.39,12/02/2023,RJ,pendente,3
+PED-0068,CLI-6543,Ana Silva,ana.silva81@gmail.com,Notebook Dell,Informatica,8,4955.38,0.11,17/10/2023,RJ,Pendente,3
+PED-0069,CLI-2388,ana silva,ana.silva83@gmail.com,Teclado Mecanico,Eletronicos,10,3334.88,0.26,2024-02-06,Sao Paulo,Entregue,
+PED-0070,CLI-5846,Bruno Costa,bruno.costa65@gmail.com,Notebook Dell,Acessorios,5,942.3,0.26,2023-08-20,rj,entregue,3
+PED-0071,CLI-7731,Diego Souza,diego.souza57@gmail.com,Tablet Samsung,Mobile,3,853.12,0.21,19-06-2023,sp,cancelado,6
+PED-0072,CLI-4271,Carla Mendes,carla.mendes33gmail.com,Fone JBL,Acessorios,10,4922.98,0.28,24/06/2024,RS,Entregue,2
+PED-0073,CLI-1436,ana silva,ana.silva65@gmail.com,Mouse Logitech,Eletronicos,3,1400.32,0.09,16/08/2023,RJ,pendente,2
+PED-0074,,Diego Souza,diego.souza20@gmail.com,Teclado Mecanico,Informatica,3,239.6,0.04,25/04/2024,rj,Pendente,5
+PED-0075,CLI-9443,Carla Mendes,carla.mendes38@gmail.com,iPhone 14,Eletronicos,4,2128.14,0.07,26-05-2024,BA,Pendente,0
+PED-0076,CLI-7116,Ana Silva,ana.silva46@gmail.com,Teclado Mecanico,Eletronicos,,2743.21,0.31,2024-04-26,Rio,Entregue,
+PED-0077,CLI-3986,Bruno Costa,bruno.costa92@gmail.com,Samsung TV 55,Eletronicos,6,2752.77,0.02,20-04-2024,PR,cancelado,1
+PED-0078,CLI-1783,Fabio Lima,fabio.lima35@gmail.com,Teclado Mecanico,Acessorios,,2021.21,0.36,15/07/2023,GO,devolvido,3
+PED-0079,CLI-3956,Fabio Lima,fabio.lima14@gmail.com,SSD 1TB,Mobile,6,4625.34,0.24,22/03/2023,PR,devolvido,6
+PED-0080,CLI-7655,Carla Mendes,carla.mendes04@gmail.com,Teclado Mecanico,Mobile,1,3647.73,0.05,2023-02-28,sp,entregue,
+PED-0081,CLI-9674,Fabio Lima,fabio.lima84@gmail.com,Teclado Mecanico,Mobile,10,210.31,0.2,2024-03-30,SP,ENTREGUE,0
+PED-0082,CLI-2213,BRUNO COSTA,bruno.costa12@gmail.com,iPhone 14,Acessorios,5,3534.99,0.28,2024-05-17,RS,pendente,5
+PED-0083,CLI-1430, Diego Souza,diego.souza48@gmail.com,Mouse Logitech,Informatica,3,3978.8,0.03,2023-05-23,MG,Entregue,6
+PED-0084,CLI-6644,Carla  Mendes,carla..mendes82@gmail.com,Monitor LG 24,Mobile,7,4125.53,0.2,05/04/2024,MG,Pendente,2
+PED-0085,CLI-5105,Carla  Mendes,carla..mendes36@gmail.com,Monitor LG 24,Informatica,5,865.05,0.2,15/06/2024,rj,Entregue,3
+PED-0086,CLI-5336, Diego Souza,,Samsung TV 55,TV e Video,10,1721.22,0.26,2023-03-25,Sao Paulo,Cancelado,4
+PED-0087,CLI-3353,Fabio Lima,fabio.lima94@gmail.com,Webcam Logitech,Acessorios,8,,0.3,10/05/2024,GO,ENTREGUE,2
+PED-0088,CLI-3616, Diego Souza,diego.souza93@gmail.com,Teclado Mecanico,Informatica,,656.48,0.2,29-01-2024,sp,devolvido,1
+PED-0089,CLI-8710,Ana Silva,ana.silva14@gmail.com,iPhone 14,Mobile,,2313.29,0.31,16/10/2023,Rio,pendente,N/A
+PED-0090,CLI-2946,Bruno Costa,bruno.costa51@gmail.com,Notebook Dell,TV e Video,9,1013.54,0.3,14-10-2023,rj,pendente,0
+PED-0091,CLI-9446, Diego Souza,diego.souza41@gmail.com,Webcam Logitech,TV e Video,1,274.25,0.24,2024-04-12,Rio,Cancelado,0
+PED-0092,CLI-1436,Elisa Ferreira,elisa.ferreira84@gmail.com,Monitor LG 24,Mobile,10,1533.96,0.29,02-03-2024,S P,cancelado,3
+PED-0093,CLI-6139,ana silva,ana.silva89@gmail.com,Monitor LG 24,TV e Video,7,-781.49,0.35,N/A,S P,devolvido,1
+PED-0094,CLI-6608,Elisa Ferreira,elisa.ferreira79@gmail.com,Samsung TV 55,TV e Video,4,2826.39,0.09,27/06/2023,PR,Cancelado,5
+PED-0095,CLI-9899,ana silva,ana.silva45@gmail.com,Mouse Logitech,Informatica,8,1619.35,0.12,08/10/2023,PR,entregue,
+PED-0096,CLI-4920,Carla  Mendes,carla..mendes29@gmail.com,SSD 1TB,Acessorios,8,1109.23,0.29,2023-10-06,GO,pendente,3
+PED-0097,CLI-1969,Bruno Costa,bruno.costa84@gmail.com,Notebook Dell,TV e Video,3,2064.19,0.37,24/07/2023,Rio,entregue,3
+PED-0098,CLI-2758,Fabio Lima,fabio.lima37@gmail.com,Notebook Dell,Mobile,8,972.24,0.36,2023-02-08,rj,devolvido,0
+PED-0099,CLI-5833,Diego Souza,diego.souza23@gmail.com,SSD 1TB,Acessorios,4,4053.63,0.21,2023-07-10,GO,Pendente,2
+PED-0100,CLI-1187,Fabio Lima,fabio.lima89@gmail.com,Samsung TV 55,Informatica,8,1651.83,0.06,01/10/2023,sp,Cancelado,5
+PED-0101,CLI-8714,Diego Souza,diego.souza98@gmail.com,iPhone 14,Acessorios,6,3092.4,0.21,18/01/2024,RJ,devolvido,2
+PED-0102,CLI-9008,Carla  Mendes,carla..mendes58@gmail.com,Notebook Dell,TV e Video,9,1050.68,0.18,2024-03-28,rj,Pendente,6
+PED-0103,CLI-2044,Ana Silva,ana.silva09@gmail.com,Mouse Logitech,Eletronicos,7,,0.07,2023-03-16,PR,Pendente,N/A
+PED-0104,CLI-2943,Carla  Mendes,carla..mendes51@gmail.com,Teclado Mecanico,Mobile,8,4354.62,0.3,17-05-2023,BA,entregue,6
+PED-0105,CLI-1527,ana silva,ana.silva79@gmail.com,Monitor LG 24,Mobile,9,1927.42,0.08,13-07-2023,SP,cancelado,1
+PED-0106,CLI-5739, Diego Souza,diego.souza41@gmail.com,SSD 1TB,TV e Video,1,,0.12,2023-08-11,RS,cancelado,0
+PED-0107,,Fabio Lima,fabio.lima83@gmail.com,Fone JBL,Mobile,5,1412.01,0.16,29-06-2023,RS,Pendente,3
+PED-0108,CLI-7824,Carla Mendes,carla.mendes50@gmail.com,Monitor LG 24,Mobile,4,4254.24,0.37,01-03-2023,Sao Paulo,Entregue,2
+PED-0109,CLI-4555,Fabio Lima,,Monitor LG 24,Informatica,1,1378.88,0.3,12-07-2023,BA,Entregue,4
+PED-0110,CLI-5285,BRUNO COSTA,bruno.costa60@gmail.com,Tablet Samsung,Informatica,7,4579.88,0.37,30-06-2024,sp,pendente,N/A
+PED-0111,CLI-6404, Diego Souza,diego.souza32@gmail.com,Notebook Dell,TV e Video,4,,0.1,03/03/2024,Sao Paulo,pendente,6
+PED-0112,CLI-2217,Ana Silva,ana.silva98gmail.com,SSD 1TB,Informatica,6,887.87,0.03,N/A,Sao Paulo,cancelado,4
+PED-0113,,Carla  Mendes,carla..mendes93@gmail.com,Monitor LG 24,Mobile,6,349.23,0.32,N/A,SP,Pendente,2
+PED-0114,CLI-7652,Diego Souza,diego.souza90@gmail.com,iPhone 14,TV e Video,3,1242.8,0.04,2024-02-11,RJ,entregue,0
+PED-0115,CLI-2562,Ana Silva,ana.silva30@gmail.com,SSD 1TB,Eletronicos,1,3529.08,0.11,06-12-2023,S P,devolvido,5
+PED-0116,CLI-2260, Diego Souza,diego.souza31@gmail.com,Monitor LG 24,TV e Video,1,-937.8,0.15,28-05-2023,Sao Paulo,pendente,2
+PED-0117,CLI-5478,BRUNO COSTA,bruno.costa63@gmail.com,Monitor LG 24,Acessorios,1,533.54,0.07,N/A,GO,Pendente,N/A
+PED-0118,CLI-6909,Ana Silva,ana.silva40@gmail.com,iPhone 14,TV e Video,5,4000.37,0.03,07-06-2023,RJ,ENTREGUE,0
+PED-0119,CLI-7779,Bruno Costa,bruno.costa93@gmail.com,Monitor LG 24,TV e Video,7,561.3,0.27,N/A,BA,ENTREGUE,5
+PED-0120,CLI-5040,BRUNO COSTA,bruno.costa77@gmail.com,Mouse Logitech,Acessorios,8,772.38,0.0,20/03/2023,MG,Cancelado,N/A
+PED-0121,CLI-4290,Carla Mendes,carla.mendes51@gmail.com,Teclado Mecanico,Mobile,6,2181.55,0.39,04/11/2023,Rio,devolvido,
+PED-0122,CLI-1440,BRUNO COSTA,bruno.costa91@gmail.com,Webcam Logitech,Acessorios,7,1856.83,0.33,04-07-2023,Rio,Entregue,N/A
+PED-0123,CLI-8851,Carla  Mendes,carla..mendes65@gmail.com,SSD 1TB,Informatica,5,1248.0,0.32,17/03/2023,GO,entregue,0
+PED-0124,CLI-7547,Fabio Lima,fabio.lima56@gmail.com,Tablet Samsung,Eletronicos,2,3856.32,0.18,15-02-2023,BA,cancelado,0
+PED-0125,CLI-8460,Carla  Mendes,carla..mendes62@gmail.com,Samsung TV 55,Acessorios,1,2439.72,0.13,26/05/2023,Rio,devolvido,2
+PED-0126,CLI-7985,Diego Souza,diego.souza52@gmail.com,Notebook Dell,Acessorios,2,3401.84,0.16,28-06-2023,Sao Paulo,Pendente,4
+PED-0127,CLI-9796,Fabio Lima,fabio.lima26@gmail.com,SSD 1TB,TV e Video,7,1974.74,0.24,06-03-2023,sp,pendente,2
+PED-0128,CLI-2931,Bruno Costa,bruno.costa24@gmail.com,Teclado Mecanico,Acessorios,8,3105.95,0.24,28-03-2023,GO,Pendente,N/A
+PED-0129,CLI-6154, Diego Souza,diego.souza07@gmail.com,Samsung TV 55,Mobile,9,3482.49,0.08,16/05/2024,sp,ENTREGUE,0
+PED-0130,CLI-4613,Elisa Ferreira,elisa.ferreira29@gmail.com,Monitor LG 24,Mobile,7,3439.25,0.22,N/A,sp,devolvido,2
+PED-0131,CLI-5055,Ana Silva,ana.silva58@gmail.com,Mouse Logitech,TV e Video,6,2733.11,0.35,12/08/2023,RJ,devolvido,4
+PED-0132,CLI-6747, Diego Souza,diego.souza69@gmail.com,Fone JBL,TV e Video,6,4312.19,0.23,2023-07-31,PR,Cancelado,0
+PED-0133,CLI-6277,ana silva,ana.silva63@gmail.com,iPhone 14,Informatica,7,4597.91,0.15,2023-05-16,Sao Paulo,Pendente,2
+PED-0134,CLI-8511,Fabio Lima,fabio.lima09@gmail.com,Webcam Logitech,TV e Video,5,3488.78,0.2,03-01-2023,GO,cancelado,5
+PED-0135,,Carla Mendes,carla.mendes57@gmail.com,Teclado Mecanico,TV e Video,10,696.44,0.4,2023-02-19,GO,cancelado,5
+PED-0136,CLI-6005,Diego Souza,diego.souza55@gmail.com,Samsung TV 55,Acessorios,2,3290.21,0.19,2023-06-19,SP,cancelado,4
+PED-0137,CLI-7276,Bruno Costa,bruno.costa14@gmail.com,Monitor LG 24,Mobile,1,89.91,0.31,16/05/2023,MG,Pendente,3
+PED-0138,CLI-7745,BRUNO COSTA,bruno.costa28@gmail.com,Samsung TV 55,Eletronicos,9,2838.29,0.14,07-08-2023,RJ,Pendente,3
+PED-0139,CLI-4366,Carla  Mendes,carla..mendes25@gmail.com,Fone JBL,Acessorios,2,1278.43,0.2,28-01-2023,SP,cancelado,6
+PED-0140,CLI-7895,Carla Mendes,carla.mendes98@gmail.com,Tablet Samsung,Eletronicos,9,,1.82,2023-11-21,RJ,entregue,1
+PED-0141,CLI-3501,Elisa Ferreira,elisa.ferreira11@gmail.com,Webcam Logitech,TV e Video,5,3161.42,0.16,26-03-2023,MG,pendente,2
+PED-0142,CLI-3877,Carla Mendes,carla.mendes90gmail.com,Mouse Logitech,Mobile,4,336.63,0.07,26/02/2023,RS,Cancelado,5
+PED-0143,CLI-6900, Diego Souza,diego.souza22@gmail.com,iPhone 14,Eletronicos,6,4045.18,0.09,20/03/2023,RJ,Entregue,1
+PED-0144,CLI-7870,Diego Souza,diego.souza54@gmail.com,Notebook Dell,Informatica,1,2385.23,0.05,06-02-2023,RJ,pendente,1
+PED-0145,,Diego Souza,diego.souza38@gmail.com,Samsung TV 55,Informatica,9,4908.0,0.19,17/10/2023,S P,cancelado,6
+PED-0146,CLI-7164,Elisa Ferreira,elisa.ferreira14@gmail.com,Fone JBL,TV e Video,4,-795.3,0.38,N/A,GO,devolvido,3
+PED-0147,CLI-2391,Carla  Mendes,carla..mendes18@gmail.com,Mouse Logitech,Eletronicos,1,4610.31,0.17,17/01/2024,S P,entregue,4
+PED-0148,CLI-4321, Diego Souza,diego.souza14@gmail.com,Mouse Logitech,Acessorios,6,4633.91,0.16,08/04/2024,sp,pendente,4
+PED-0149,CLI-6370,Diego Souza,,SSD 1TB,Acessorios,8,1361.79,0.33,2023-02-11,PR,Cancelado,N/A
+PED-0150,CLI-4641,ana silva,ana.silva48@gmail.com,SSD 1TB,TV e Video,9,1286.77,0.37,2023-01-13,RJ,Cancelado,2
+PED-0151,CLI-8096,ana silva,ana.silva64gmail.com,Fone JBL,Mobile,3,505.29,0.09,2024-04-17,MG,pendente,5
+PED-0152,CLI-7275,Diego Souza,diego.souza83@gmail.com,SSD 1TB,Informatica,1,3089.83,0.4,2024-05-05,Sao Paulo,entregue,
+PED-0153,CLI-1480,Elisa Ferreira,elisa.ferreira08@gmail.com,SSD 1TB,TV e Video,8,1752.97,0.39,27/01/2023,RS,cancelado,4
+PED-0154,CLI-3846, Diego Souza,diego.souza41@gmail.com,Mouse Logitech,TV e Video,1,3832.05,0.28,02/02/2024,S P,entregue,3
+PED-0155,CLI-1011, Diego Souza,diego.souza26@gmail.com,Tablet Samsung,Informatica,,-2733.52,0.02,2023-08-13,MG,pendente,3
+PED-0156,CLI-3235,ana silva,ana.silva82@gmail.com,iPhone 14,TV e Video,6,4804.77,0.09,14/04/2023,MG,pendente,3
+PED-0157,CLI-6213, Diego Souza,diego.souza29@gmail.com,Webcam Logitech,Acessorios,5,680.37,0.13,N/A,sp,ENTREGUE,
+PED-0158,CLI-2110,Bruno Costa,bruno.costa93gmail.com,Teclado Mecanico,Informatica,2,4117.23,0.39,12/01/2023,Rio,Pendente,6
+PED-0159,CLI-1547,Fabio Lima,fabio.lima34@gmail.com,Webcam Logitech,Acessorios,9,1907.97,0.06,2023-08-19,MG,Pendente,2
+PED-0160,CLI-6424,Diego Souza,diego.souza53@gmail.com,Teclado Mecanico,TV e Video,10,4471.47,0.26,2024-03-20,Rio,Cancelado,2
+PED-0161,CLI-8869,Ana Silva,ana.silva27@gmail.com,Notebook Dell,Mobile,,2770.83,0.34,31/03/2023,RJ,devolvido,N/A
+PED-0162,CLI-5313,Elisa Ferreira,elisa.ferreira29@gmail.com,SSD 1TB,Mobile,5,501.13,0.03,2024-01-14,MG,Entregue,0
+PED-0163,CLI-8803,ana silva,ana.silva92gmail.com,Webcam Logitech,TV e Video,4,2790.33,0.05,01-05-2024,rj,ENTREGUE,3
+PED-0164,CLI-2097,Carla  Mendes,carla..mendes51@gmail.com,Samsung TV 55,Informatica,4,674.62,2.55,01-06-2023,rj,devolvido,0
+PED-0165,CLI-2654,Carla  Mendes,carla..mendes45@gmail.com,Webcam Logitech,Eletronicos,7,790.73,0.23,2023-04-13,Sao Paulo,devolvido,3
+PED-0166,CLI-8785,Fabio Lima,fabio.lima03@gmail.com,Mouse Logitech,Mobile,3,3110.31,0.34,06-12-2023,PR,Cancelado,2
+PED-0167,CLI-4079,ana silva,ana.silva95@gmail.com,Fone JBL,Informatica,5,4872.39,0.21,02-03-2024,RS,entregue,5
+PED-0168,CLI-8478,Fabio Lima,fabio.lima91@gmail.com,Monitor LG 24,Mobile,3,3913.56,0.25,2023-07-25,sp,Pendente,1
+PED-0169,CLI-5237,Bruno Costa,,Fone JBL,Acessorios,8,2990.52,0.34,25/12/2023,S P,cancelado,4
+PED-0170,CLI-1138, Diego Souza,diego.souza40@gmail.com,Mouse Logitech,Mobile,,149.26,0.36,16-05-2023,PR,Pendente,6
+PED-0171,CLI-7131, Diego Souza,diego.souza78@gmail.com,Mouse Logitech,Informatica,8,1545.62,0.13,08-01-2023,sp,Entregue,
+PED-0172,CLI-3292,BRUNO COSTA,bruno.costa38@gmail.com,Mouse Logitech,Acessorios,,982.38,0.23,18-02-2024,GO,entregue,4
+PED-0173,CLI-3967,BRUNO COSTA,bruno.costa17@gmail.com,Teclado Mecanico,Informatica,9,3209.65,0.38,2023-11-04,rj,ENTREGUE,2
+PED-0174,CLI-2929, Diego Souza,diego.souza75@gmail.com,Fone JBL,Acessorios,4,3733.84,0.35,24-09-2023,BA,Entregue,5
+PED-0175,CLI-3954,BRUNO COSTA,bruno.costa43@gmail.com,Webcam Logitech,Eletronicos,3,729.96,0.0,2024-04-13,Sao Paulo,entregue,3
+PED-0176,CLI-8821,Ana Silva,ana.silva69@gmail.com,Tablet Samsung,Informatica,8,3936.79,0.3,15/03/2024,SP,pendente,1
+PED-0177,CLI-1749,Elisa Ferreira,elisa.ferreira59@gmail.com,Notebook Dell,Informatica,4,3482.95,0.36,2023-11-10,RS,Pendente,
+PED-0178,CLI-4460, Diego Souza,diego.souza65@gmail.com,SSD 1TB,Acessorios,,866.17,0.15,18-08-2023,Sao Paulo,entregue,0
+PED-0179,CLI-3024,BRUNO COSTA,bruno.costa90@gmail.com,Tablet Samsung,Eletronicos,,4973.67,0.12,29/04/2023,Sao Paulo,entregue,0
+PED-0180,CLI-2741, Diego Souza,diego.souza26@gmail.com,Mouse Logitech,TV e Video,10,3518.6,0.28,01/05/2023,BA,pendente,1
+PED-0181,CLI-9095,Bruno Costa,bruno.costa66gmail.com,Monitor LG 24,Mobile,,3456.61,0.18,2023-04-02,PR,cancelado,5
+PED-0182,CLI-2556,Ana Silva,ana.silva02@gmail.com,SSD 1TB,Eletronicos,2,4075.23,0.14,17/11/2023,MG,pendente,5
+PED-0183,CLI-7909,Carla Mendes,carla.mendes15@gmail.com,iPhone 14,Acessorios,6,955.2,0.17,30-01-2024,MG,Entregue,6
+PED-0184,CLI-2850,BRUNO COSTA,bruno.costa06gmail.com,Samsung TV 55,TV e Video,7,3906.86,0.39,14/05/2023,SP,cancelado,
+PED-0185,,Carla Mendes,carla.mendes65@gmail.com,Monitor LG 24,TV e Video,10,521.45,0.3,2024-01-30,MG,Entregue,
+PED-0186,CLI-8341,BRUNO COSTA,bruno.costa58@gmail.com,Mouse Logitech,Eletronicos,9,1152.4,0.04,15/04/2024,Rio,entregue,0
+PED-0187,CLI-6584,Ana Silva,ana.silva29@gmail.com,Monitor LG 24,Eletronicos,2,3969.33,0.29,31-07-2023,S P,devolvido,6
+PED-0188,CLI-1750,BRUNO COSTA,bruno.costa18@gmail.com,iPhone 14,Eletronicos,4,60.87,0.1,18/06/2024,GO,Entregue,2
+PED-0189,CLI-3018,BRUNO COSTA,bruno.costa59@gmail.com,Webcam Logitech,Informatica,8,4131.54,0.0,17-02-2023,MG,devolvido,0
+PED-0190,CLI-2696, Diego Souza,diego.souza78@gmail.com,Webcam Logitech,TV e Video,8,4625.64,0.39,27-06-2023,GO,Pendente,4
+PED-0191,CLI-9975,Carla  Mendes,carla..mendes81@gmail.com,Mouse Logitech,Mobile,6,4853.93,0.27,08/06/2024,Rio,Cancelado,3
+PED-0192,CLI-7839,Carla  Mendes,carla..mendes37@gmail.com,Samsung TV 55,TV e Video,9,3486.84,0.01,06-05-2024,SP,Entregue,1
+PED-0193,CLI-1529,BRUNO COSTA,bruno.costa14@gmail.com,Fone JBL,Acessorios,3,4918.49,0.3,2023-10-30,rj,cancelado,4
+PED-0194,CLI-5117,BRUNO COSTA,bruno.costa29@gmail.com,Monitor LG 24,Acessorios,1,4636.1,0.3,17-11-2023,Sao Paulo,pendente,4
+PED-0195,CLI-8020,Elisa Ferreira,elisa.ferreira17@gmail.com,Fone JBL,Acessorios,8,928.26,0.19,2024-06-10,SP,pendente,1
+PED-0196,CLI-2194,Fabio Lima,fabio.lima68@gmail.com,Samsung TV 55,Acessorios,10,301.73,0.17,17-05-2024,RJ,ENTREGUE,2
+PED-0197,CLI-1144,Fabio Lima,fabio.lima58@gmail.com,Teclado Mecanico,Informatica,4,3333.51,0.38,27/06/2024,S P,cancelado,
+PED-0198,CLI-8300,Elisa Ferreira,elisa.ferreira84@gmail.com,Webcam Logitech,Eletronicos,7,-1320.12,0.39,19-01-2024,RJ,ENTREGUE,0
+PED-0199,CLI-8130,Bruno Costa,,Notebook Dell,Eletronicos,4,3368.16,0.02,2023-04-17,Rio,pendente,3
+PED-0200,CLI-7381,Carla  Mendes,carla..mendes01@gmail.com,Mouse Logitech,TV e Video,2,2896.06,0.28,19/02/2024,Rio,entregue,0
+PED-0201,CLI-4602,ana silva,ana.silva70@gmail.com,iPhone 14,Acessorios,5,3052.5,2.81,01/02/2023,PR,pendente,3
+PED-0202,CLI-6633,Carla  Mendes,carla..mendes19@gmail.com,iPhone 14,Eletronicos,1,2884.96,0.05,04-08-2023,PR,cancelado,1
+PED-0203,CLI-4842, Diego Souza,diego.souza09@gmail.com,Monitor LG 24,Mobile,9,412.07,0.25,13/05/2024,sp,pendente,3
+PED-0204,CLI-8145,Fabio Lima,fabio.lima18@gmail.com,Tablet Samsung,TV e Video,6,4048.11,0.18,15-08-2023,sp,devolvido,6
+PED-0205,CLI-2252,Ana Silva,ana.silva65@gmail.com,Monitor LG 24,Eletronicos,3,3245.48,0.31,21/07/2023,S P,Pendente,1
+PED-0206,CLI-5767,Carla  Mendes,carla..mendes66@gmail.com,Monitor LG 24,Acessorios,9,4475.23,0.34,2024-02-06,SP,cancelado,3
+PED-0207,,BRUNO COSTA,bruno.costa30gmail.com,Monitor LG 24,Informatica,8,838.15,0.21,30-05-2023,SP,cancelado,N/A
+PED-0208,CLI-9918,ana silva,ana.silva84@gmail.com,SSD 1TB,Mobile,1,247.53,0.15,08-10-2023,RJ,Cancelado,0
+PED-0209,CLI-2263,Elisa Ferreira,elisa.ferreira28@gmail.com,Webcam Logitech,Acessorios,6,2459.96,0.26,23/05/2023,S P,Entregue,
+PED-0210,CLI-3639,Carla  Mendes,carla..mendes06@gmail.com,iPhone 14,Mobile,8,2421.15,0.37,2023-09-07,MG,Cancelado,N/A
+PED-0211,CLI-8723,Carla Mendes,carla.mendes29@gmail.com,Tablet Samsung,TV e Video,1,4398.62,0.25,10/08/2023,S P,ENTREGUE,3
+PED-0212,CLI-9263,Carla Mendes,carla.mendes78@gmail.com,Teclado Mecanico,Mobile,10,2973.45,0.35,27-07-2023,S P,entregue,2
+PED-0213,CLI-1711,ana silva,ana.silva30@gmail.com,iPhone 14,Mobile,3,-4514.82,0.24,17-03-2024,GO,pendente,2
+PED-0214,CLI-1116,Bruno Costa,bruno.costa67gmail.com,Webcam Logitech,Informatica,5,2411.85,0.16,23/02/2024,Rio,pendente,N/A
+PED-0215,CLI-8904,Carla  Mendes,carla..mendes72@gmail.com,Tablet Samsung,Acessorios,5,4282.14,0.31,2024-02-11,S P,pendente,3
+PED-0216,CLI-1852,Ana Silva,ana.silva12@gmail.com,iPhone 14,Informatica,8,3926.39,0.04,13-12-2023,S P,Pendente,
+PED-0217,CLI-1941,Carla Mendes,,iPhone 14,TV e Video,1,3636.25,0.08,21-10-2023,Sao Paulo,Cancelado,0
+PED-0218,CLI-5520,Fabio Lima,fabio.lima86@gmail.com,Monitor LG 24,Informatica,10,,0.29,2023-01-01,rj,entregue,2
+PED-0219,CLI-1076,ana silva,ana.silva65@gmail.com,Monitor LG 24,Acessorios,9,4579.29,0.38,19/07/2023,PR,pendente,5
+PED-0220,CLI-1448,Elisa Ferreira,elisa.ferreira09@gmail.com,Monitor LG 24,TV e Video,5,3486.25,0.32,14/12/2023,BA,cancelado,
+PED-0221,CLI-3924,Fabio Lima,fabio.lima28@gmail.com,Monitor LG 24,TV e Video,1,3519.05,0.2,2023-12-17,Rio,cancelado,4
+PED-0222,CLI-9071,Carla  Mendes,carla..mendes06@gmail.com,Mouse Logitech,Informatica,4,1053.69,0.36,2023-04-20,RS,devolvido,5
+PED-0223,CLI-1533,ana silva,ana.silva88@gmail.com,SSD 1TB,Informatica,,1437.32,2.51,09/03/2024,RJ,devolvido,N/A
+PED-0224,CLI-6621,BRUNO COSTA,bruno.costa55@gmail.com,Tablet Samsung,Eletronicos,6,1839.93,0.34,03/10/2023,RS,pendente,3
+PED-0225,CLI-3450,Ana Silva,ana.silva23@gmail.com,Tablet Samsung,Informatica,10,3445.76,0.31,18/03/2024,Sao Paulo,pendente,0
+PED-0226,CLI-5256,Carla  Mendes,carla..mendes72@gmail.com,Tablet Samsung,Eletronicos,7,539.93,0.05,09/04/2023,SP,Pendente,4
+PED-0227,CLI-2284,Elisa Ferreira,elisa.ferreira60@gmail.com,Tablet Samsung,TV e Video,9,913.97,0.17,14-05-2024,MG,pendente,N/A
+PED-0228,CLI-6950,Carla  Mendes,carla..mendes58@gmail.com,iPhone 14,Eletronicos,3,1750.95,0.29,09/02/2024,SP,ENTREGUE,2
+PED-0229,CLI-9584,Bruno Costa,bruno.costa14@gmail.com,Fone JBL,Informatica,7,,0.12,2023-02-25,Sao Paulo,Pendente,5
+PED-0230,CLI-9856,Carla  Mendes,carla..mendes57@gmail.com,SSD 1TB,Informatica,3,-2657.37,0.24,30/11/2023,rj,ENTREGUE,N/A
+PED-0231,CLI-3551,Ana Silva,ana.silva67@gmail.com,Monitor LG 24,TV e Video,5,4549.17,2.88,12/11/2023,RS,Cancelado,6
+PED-0232,CLI-8161,Carla Mendes,carla.mendes92@gmail.com,Mouse Logitech,Eletronicos,7,3999.93,0.11,13/07/2023,GO,cancelado,4
+PED-0233,CLI-2808, Diego Souza,diego.souza58@gmail.com,Monitor LG 24,TV e Video,5,1459.15,2.3,2023-03-12,BA,pendente,3
+PED-0234,CLI-7885,BRUNO COSTA,bruno.costa48@gmail.com,iPhone 14,Acessorios,5,-668.94,0.34,16/01/2023,RS,Entregue,1
+PED-0235,CLI-5078,BRUNO COSTA,,Mouse Logitech,Mobile,2,2738.8,0.21,2024-01-26,sp,Entregue,6
+PED-0236,CLI-5895,Ana Silva,ana.silva86@gmail.com,Webcam Logitech,Acessorios,6,835.13,0.13,06/05/2023,Sao Paulo,Pendente,5
+PED-0237,CLI-7084,Diego Souza,diego.souza21@gmail.com,Tablet Samsung,Eletronicos,,,0.02,01-05-2024,RS,entregue,0
+PED-0238,CLI-7189,Carla Mendes,carla.mendes33@gmail.com,iPhone 14,Informatica,8,1201.74,0.22,25-03-2024,sp,Cancelado,3
+PED-0239,CLI-8362,Elisa Ferreira,,Monitor LG 24,Acessorios,6,3675.39,0.29,2023-06-14,Sao Paulo,Pendente,
+PED-0240,CLI-3525,Fabio Lima,fabio.lima53@gmail.com,Tablet Samsung,Informatica,6,3618.97,0.02,20-06-2024,rj,Entregue,3
+PED-0241,,Diego Souza,,Notebook Dell,Informatica,2,2452.58,0.37,16-05-2024,BA,devolvido,6
+PED-0242,CLI-1666,Elisa Ferreira,elisa.ferreira10@gmail.com,Notebook Dell,Acessorios,9,3730.21,0.29,01-03-2023,RJ,Entregue,4
+PED-0243,CLI-8515,ana silva,ana.silva14@gmail.com,Fone JBL,TV e Video,4,2871.64,0.26,19-04-2023,GO,pendente,6
+PED-0244,CLI-4943,Diego Souza,diego.souza49@gmail.com,Teclado Mecanico,Acessorios,9,4957.74,0.38,16-03-2024,PR,pendente,N/A
+PED-0245,,Elisa Ferreira,elisa.ferreira71@gmail.com,Notebook Dell,Eletronicos,5,2999.03,0.04,2023-11-04,S P,ENTREGUE,3
+PED-0246,CLI-2264,BRUNO COSTA,bruno.costa23@gmail.com,Samsung TV 55,Acessorios,6,4453.65,0.24,14-02-2024,Rio,Entregue,N/A
+PED-0247,CLI-1187,ana silva,,iPhone 14,Eletronicos,6,1772.25,0.13,21-08-2023,rj,ENTREGUE,3
+PED-0248,CLI-2352,Ana Silva,ana.silva71@gmail.com,Notebook Dell,Mobile,8,3776.56,0.31,2024-02-08,rj,Pendente,3
+PED-0249,CLI-5362,Fabio Lima,fabio.lima88@gmail.com,SSD 1TB,TV e Video,4,2464.91,0.17,2024-06-20,Sao Paulo,Pendente,
+PED-0250,CLI-1735,Diego Souza,diego.souza26@gmail.com,Teclado Mecanico,TV e Video,1,3859.92,0.04,28-03-2024,Rio,Entregue,3
+PED-0251,CLI-4339,Elisa Ferreira,elisa.ferreira71@gmail.com,Mouse Logitech,Eletronicos,,3484.29,0.15,03-08-2023,MG,entregue,0
+PED-0252,CLI-2091,Elisa Ferreira,elisa.ferreira85@gmail.com,Notebook Dell,Acessorios,3,347.54,0.12,21-04-2024,RJ,entregue,N/A
+PED-0253,CLI-9202,Carla  Mendes,carla..mendes92gmail.com,Fone JBL,Mobile,9,4884.23,0.13,2024-06-28,rj,Cancelado,3
+PED-0254,CLI-7343,Ana Silva,ana.silva72@gmail.com,Notebook Dell,Acessorios,6,1809.12,0.26,2023-10-10,RS,Pendente,N/A
+PED-0255,CLI-4387, Diego Souza,diego.souza70@gmail.com,Monitor LG 24,TV e Video,4,2115.8,0.28,04/12/2023,MG,Cancelado,3
+PED-0256,CLI-3384,Fabio Lima,fabio.lima53@gmail.com,Webcam Logitech,Informatica,10,4589.7,0.06,2023-05-02,Rio,Cancelado,3
+PED-0257,CLI-2302,BRUNO COSTA,bruno.costa18@gmail.com,Samsung TV 55,Eletronicos,10,3103.89,0.07,N/A,Rio,pendente,6
+PED-0258,CLI-4323,Bruno Costa,bruno.costa23@gmail.com,Samsung TV 55,Informatica,4,1170.05,0.28,2024-02-27,S P,devolvido,4
+PED-0259,CLI-1630,BRUNO COSTA,,Webcam Logitech,Mobile,1,3059.25,2.08,21-06-2024,BA,Pendente,1
+PED-0260,CLI-1893,Carla Mendes,carla.mendes60@gmail.com,Fone JBL,Acessorios,8,2020.3,0.07,08/03/2024,Rio,Entregue,0
+PED-0261,CLI-6309,Carla Mendes,carla.mendes92@gmail.com,Samsung TV 55,Mobile,7,,0.25,26/07/2023,Rio,devolvido,N/A
+PED-0262,CLI-3930,Ana Silva,ana.silva54@gmail.com,Monitor LG 24,TV e Video,3,1924.46,0.25,2023-06-03,sp,Cancelado,3
+PED-0263,CLI-9084, Diego Souza,diego.souza85@gmail.com,Fone JBL,Eletronicos,10,,0.1,25-05-2024,RJ,entregue,0
+PED-0264,CLI-1803,Carla Mendes,carla.mendes21@gmail.com,Fone JBL,Eletronicos,3,-783.87,0.39,02/11/2023,Rio,ENTREGUE,
+PED-0265,CLI-2999,Elisa Ferreira,elisa.ferreira43@gmail.com,Notebook Dell,Eletronicos,5,1647.97,0.24,08/03/2023,Rio,cancelado,0
+PED-0266,CLI-6797, Diego Souza,diego.souza73@gmail.com,iPhone 14,Mobile,10,4672.76,0.32,21/11/2023,sp,devolvido,4
+PED-0267,,Fabio Lima,fabio.lima72@gmail.com,Mouse Logitech,Informatica,1,635.13,0.28,01-08-2023,Sao Paulo,cancelado,2
+PED-0268,CLI-1477,Diego Souza,diego.souza43@gmail.com,Mouse Logitech,Acessorios,9,2772.47,0.32,10-02-2024,sp,devolvido,6
+PED-0269,CLI-6169,Ana Silva,ana.silva27@gmail.com,Samsung TV 55,Mobile,9,4484.85,0.39,27-02-2023,RS,Entregue,1
+PED-0270,CLI-1518,Bruno Costa,bruno.costa64@gmail.com,Teclado Mecanico,Mobile,9,4219.91,0.21,12-11-2023,PR,cancelado,
+PED-0271,CLI-8921,Carla  Mendes,carla..mendes40@gmail.com,Notebook Dell,Informatica,2,,2.08,2024-05-27,RJ,ENTREGUE,0
+PED-0272,,Elisa Ferreira,elisa.ferreira82@gmail.com,iPhone 14,Eletronicos,5,4665.07,0.11,2024-04-23,BA,Cancelado,6
+PED-0273,CLI-6218,Elisa Ferreira,elisa.ferreira74@gmail.com,iPhone 14,Acessorios,3,829.61,0.22,2023-04-15,S P,pendente,1
+PED-0274,CLI-6444,Carla  Mendes,carla..mendes11@gmail.com,SSD 1TB,Eletronicos,2,1948.82,0.04,01-04-2024,sp,ENTREGUE,6
+PED-0275,CLI-5227,ana silva,ana.silva24@gmail.com,iPhone 14,Mobile,5,3438.17,0.2,2023-08-18,RS,devolvido,2
+PED-0276,CLI-2752,Bruno Costa,bruno.costa39@gmail.com,Teclado Mecanico,Mobile,8,4236.54,0.25,2024-06-04,GO,cancelado,6
+PED-0277,CLI-3835,Bruno Costa,bruno.costa95@gmail.com,Webcam Logitech,Eletronicos,6,1080.78,0.24,17-12-2023,sp,Entregue,0
+PED-0278,CLI-2007,Carla Mendes,carla.mendes75@gmail.com,iPhone 14,Mobile,3,1574.78,0.26,24/01/2024,SP,ENTREGUE,5
+PED-0279,CLI-6640, Diego Souza,diego.souza02@gmail.com,Webcam Logitech,TV e Video,10,2263.44,0.02,08/11/2023,MG,Cancelado,1
+PED-0280,CLI-7271,ana silva,ana.silva70@gmail.com,Notebook Dell,TV e Video,6,-593.01,0.22,08-02-2024,MG,cancelado,
+PED-0281,CLI-8974,Carla Mendes,carla.mendes11@gmail.com,Webcam Logitech,Informatica,5,4987.41,0.25,2023-01-17,sp,Pendente,N/A
+PED-0282,CLI-7731, Diego Souza,,Monitor LG 24,Mobile,7,1808.77,0.05,31-08-2023,sp,pendente,2
+PED-0283,CLI-2279,Carla  Mendes,carla..mendes75@gmail.com,Samsung TV 55,TV e Video,5,2351.43,0.19,28-04-2024,RS,entregue,6
+PED-0284,CLI-5267,BRUNO COSTA,bruno.costa75@gmail.com,Tablet Samsung,Acessorios,7,1796.93,0.11,08-11-2023,PR,entregue,0
+PED-0285,CLI-3476,Fabio Lima,fabio.lima23@gmail.com,iPhone 14,Acessorios,,706.07,0.32,25-04-2023,sp,ENTREGUE,
+PED-0286,CLI-3740,Fabio Lima,fabio.lima07@gmail.com,iPhone 14,Informatica,10,4673.01,0.07,2024-01-28,RJ,entregue,5
+PED-0287,CLI-8353,Fabio Lima,,SSD 1TB,TV e Video,4,1930.01,0.38,2024-03-21,rj,pendente,5
+PED-0288,CLI-4193,Carla Mendes,carla.mendes41@gmail.com,Teclado Mecanico,Acessorios,5,4021.47,0.16,05-09-2023,RJ,entregue,6
+PED-0289,CLI-4552,Bruno Costa,bruno.costa91@gmail.com,Teclado Mecanico,Informatica,5,,0.15,28-02-2023,S P,ENTREGUE,3
+PED-0290,CLI-6298,Bruno Costa,bruno.costa36@gmail.com,iPhone 14,Informatica,5,1508.11,0.1,11/10/2023,RS,entregue,3
+PED-0291,CLI-8065,Bruno Costa,bruno.costa57@gmail.com,SSD 1TB,Eletronicos,8,4898.14,0.23,2023-04-22,RJ,Entregue,6
+PED-0292,CLI-6403, Diego Souza,diego.souza01@gmail.com,Notebook Dell,Mobile,,,0.17,04/02/2024,sp,devolvido,2
+PED-0293,CLI-7563,Bruno Costa,bruno.costa47@gmail.com,Monitor LG 24,Informatica,1,1952.9,0.3,03/01/2024,RJ,devolvido,4
+PED-0294,CLI-8970,BRUNO COSTA,,Samsung TV 55,TV e Video,1,4839.19,0.2,20-04-2023,SP,cancelado,0
+PED-0295,CLI-1701,Diego Souza,diego.souza84@gmail.com,Mouse Logitech,Mobile,,4826.52,0.3,2023-12-14,Sao Paulo,ENTREGUE,2
+PED-0296,CLI-1818,Bruno Costa,bruno.costa59@gmail.com,Notebook Dell,Informatica,,3286.47,0.05,2023-05-14,RJ,Entregue,4
+PED-0297,CLI-3250,Diego Souza,diego.souza98gmail.com,iPhone 14,Informatica,7,1719.85,0.11,04-05-2023,RJ,Entregue,3
+PED-0298,CLI-8978,Ana Silva,ana.silva23@gmail.com,Teclado Mecanico,TV e Video,3,2221.37,0.17,N/A,S P,Cancelado,6
+PED-0299,CLI-9190,Bruno Costa,bruno.costa81@gmail.com,Samsung TV 55,Informatica,3,3217.14,0.22,08-02-2023,GO,entregue,0
+PED-0300,CLI-2846,BRUNO COSTA,bruno.costa64@gmail.com,iPhone 14,TV e Video,6,4320.52,0.26,02/08/2023,SP,entregue,N/A
+PED-0301,CLI-8947,Bruno Costa,bruno.costa31@gmail.com,Mouse Logitech,Acessorios,10,4035.51,0.08,2023-06-30,RS,Pendente,
+PED-0302,CLI-8936,ana silva,ana.silva19@gmail.com,Fone JBL,Eletronicos,6,1177.52,0.15,2023-08-14,MG,Pendente,4
+PED-0303,CLI-8627,Carla Mendes,carla.mendes98@gmail.com,Teclado Mecanico,Acessorios,4,,0.32,2023-10-15,S P,ENTREGUE,3
+PED-0304,CLI-8014,Diego Souza,diego.souza32@gmail.com,Tablet Samsung,TV e Video,4,478.05,0.37,29/04/2024,S P,ENTREGUE,N/A
+PED-0305,CLI-2361,Ana Silva,ana.silva89@gmail.com,Notebook Dell,Eletronicos,8,3680.71,0.12,11/04/2023,MG,pendente,2
+PED-0306,CLI-7641,Fabio Lima,fabio.lima81@gmail.com,Notebook Dell,Mobile,5,850.92,0.15,10/04/2024,Sao Paulo,Entregue,0
+PED-0307,CLI-6500,Ana Silva,ana.silva66@gmail.com,Notebook Dell,Acessorios,7,3776.8,0.15,01-08-2023,SP,Entregue,1
+PED-0308,CLI-2860, Diego Souza,diego.souza90@gmail.com,Teclado Mecanico,Acessorios,3,3258.45,0.14,22/05/2023,BA,pendente,N/A
+PED-0309,CLI-9730,BRUNO COSTA,bruno.costa80@gmail.com,Mouse Logitech,Eletronicos,2,1895.43,0.08,26-04-2024,Rio,Entregue,2
+PED-0310,CLI-4346,Ana Silva,ana.silva38@gmail.com,iPhone 14,Mobile,3,1477.44,0.14,01/06/2023,MG,devolvido,1
+PED-0311,CLI-6346,Carla  Mendes,carla..mendes71@gmail.com,Mouse Logitech,Informatica,2,159.08,0.07,10/12/2023,MG,Cancelado,6
+PED-0312,CLI-3986,Carla Mendes,,Teclado Mecanico,Acessorios,1,784.27,0.18,14-06-2023,RS,ENTREGUE,4
+PED-0313,CLI-1408,BRUNO COSTA,bruno.costa99@gmail.com,Monitor LG 24,Eletronicos,6,4891.21,0.0,30/06/2024,RS,ENTREGUE,0
+PED-0314,CLI-8243,Bruno Costa,,Teclado Mecanico,Acessorios,8,4485.09,0.12,31-05-2023,Sao Paulo,Entregue,4
+PED-0315,CLI-9821,Bruno Costa,bruno.costa66@gmail.com,SSD 1TB,Acessorios,2,1665.51,0.36,N/A,S P,entregue,3
+PED-0316,CLI-8278,ana silva,ana.silva57@gmail.com,Webcam Logitech,Acessorios,7,1895.51,0.06,2023-03-31,GO,Pendente,2
+PED-0317,CLI-5478,Carla  Mendes,carla..mendes60@gmail.com,Samsung TV 55,Informatica,5,2399.33,0.07,N/A,MG,cancelado,0
+PED-0318,CLI-5917,BRUNO COSTA,bruno.costa16@gmail.com,SSD 1TB,Eletronicos,5,4181.2,0.2,2023-01-28,GO,ENTREGUE,4
+PED-0319,CLI-5225,BRUNO COSTA,bruno.costa89@gmail.com,Notebook Dell,Eletronicos,5,2490.6,0.34,07-05-2024,Rio,entregue,1
+PED-0320,,Elisa Ferreira,elisa.ferreira68@gmail.com,Samsung TV 55,Acessorios,8,4397.67,0.31,05-03-2024,BA,ENTREGUE,3
+PED-0321,CLI-6761,Ana Silva,ana.silva18@gmail.com,Monitor LG 24,Acessorios,6,4142.77,0.14,2024-01-07,sp,Pendente,2
+PED-0322,CLI-2867,Bruno Costa,bruno.costa15@gmail.com,Fone JBL,Informatica,9,1144.51,0.12,22-06-2024,sp,pendente,6
+PED-0323,CLI-4712,Diego Souza,diego.souza17@gmail.com,Tablet Samsung,TV e Video,6,902.43,0.01,12-05-2023,RJ,Entregue,N/A
+PED-0324,CLI-1168,Bruno Costa,bruno.costa78@gmail.com,Notebook Dell,Informatica,2,212.32,0.01,2023-09-17,MG,pendente,5
+PED-0325,CLI-1229,Diego Souza,diego.souza37@gmail.com,Tablet Samsung,Acessorios,6,844.76,0.37,2023-03-11,SP,Entregue,6
+PED-0326,CLI-4728,Fabio Lima,fabio.lima16@gmail.com,Teclado Mecanico,TV e Video,3,2226.35,0.28,24/01/2024,sp,pendente,1
+PED-0327,CLI-5761,ana silva,ana.silva25@gmail.com,iPhone 14,Acessorios,8,622.83,0.07,2024-03-30,sp,pendente,6
+PED-0328,CLI-3764,Diego Souza,diego.souza44@gmail.com,iPhone 14,Mobile,8,2637.18,0.09,15-04-2023,GO,Entregue,6
+PED-0329,CLI-7626,Carla  Mendes,carla..mendes36@gmail.com,Mouse Logitech,TV e Video,10,1401.22,0.2,02-05-2024,RJ,Cancelado,3
+PED-0330,CLI-2578,Carla  Mendes,carla..mendes99@gmail.com,Notebook Dell,Eletronicos,1,-4160.05,0.2,2023-12-01,PR,devolvido,
+PED-0331,CLI-7165,Ana Silva,ana.silva05@gmail.com,Monitor LG 24,TV e Video,1,,0.2,02/05/2023,PR,ENTREGUE,N/A
+PED-0332,CLI-9301,Elisa Ferreira,elisa.ferreira64@gmail.com,SSD 1TB,Eletronicos,10,3391.37,0.31,02-05-2024,Sao Paulo,pendente,1
+PED-0333,CLI-6654,ana silva,ana.silva45gmail.com,Notebook Dell,TV e Video,1,684.58,0.24,16/12/2023,BA,Cancelado,2
+PED-0334,CLI-7900,BRUNO COSTA,bruno.costa76gmail.com,Mouse Logitech,Eletronicos,6,-890.41,0.13,08-03-2024,S P,Pendente,6
+PED-0335,CLI-4305,Bruno Costa,bruno.costa69@gmail.com,iPhone 14,Informatica,6,2508.82,0.32,03/11/2023,PR,Pendente,2
+PED-0336,CLI-2256,Elisa Ferreira,elisa.ferreira65@gmail.com,Tablet Samsung,Eletronicos,10,,0.08,01/05/2024,rj,pendente,0
+PED-0337,CLI-8656,Carla  Mendes,carla..mendes79@gmail.com,SSD 1TB,TV e Video,3,4410.44,0.21,2024-05-26,S P,entregue,3
+PED-0338,CLI-5702,Elisa Ferreira,elisa.ferreira88@gmail.com,Fone JBL,Informatica,5,4228.4,0.08,28/07/2023,RJ,ENTREGUE,5
+PED-0339,CLI-5551,Carla Mendes,carla.mendes83@gmail.com,SSD 1TB,Mobile,9,4956.9,0.02,N/A,sp,entregue,
+PED-0340,CLI-3302, Diego Souza,diego.souza95@gmail.com,Tablet Samsung,Acessorios,2,4507.85,0.2,03/04/2023,Sao Paulo,Cancelado,2
+PED-0341,CLI-4507,BRUNO COSTA,bruno.costa53@gmail.com,Teclado Mecanico,Acessorios,10,3699.32,0.28,2023-08-12,sp,pendente,0
+PED-0342,CLI-1570,Ana Silva,ana.silva89@gmail.com,Webcam Logitech,Mobile,4,4818.41,0.12,N/A,PR,Pendente,
+PED-0343,CLI-4857,Carla Mendes,carla.mendes57@gmail.com,iPhone 14,TV e Video,4,4295.35,0.32,19/09/2023,Sao Paulo,Pendente,2
+PED-0344,CLI-9295,ana silva,ana.silva78@gmail.com,SSD 1TB,Mobile,7,4636.16,0.28,2023-04-13,RS,devolvido,3
+PED-0345,CLI-3131,ana silva,ana.silva41@gmail.com,SSD 1TB,Informatica,1,2033.28,0.07,2023-06-11,MG,Cancelado,
+PED-0346,CLI-4747,BRUNO COSTA,bruno.costa26@gmail.com,Mouse Logitech,Informatica,2,2101.76,0.25,2023-08-18,SP,Pendente,3
+PED-0347,CLI-4677,Diego Souza,diego.souza35@gmail.com,iPhone 14,Acessorios,3,4738.86,0.34,09-04-2024,MG,Pendente,5
+PED-0348,CLI-8506,BRUNO COSTA,bruno.costa18@gmail.com,Fone JBL,Mobile,3,2072.19,0.29,2024-04-06,GO,cancelado,5
+PED-0349,CLI-7241,ana silva,ana.silva86@gmail.com,iPhone 14,Eletronicos,9,340.82,0.23,2023-02-16,rj,entregue,0
+PED-0350,CLI-3095,Elisa Ferreira,elisa.ferreira96@gmail.com,SSD 1TB,Acessorios,8,703.0,0.21,N/A,PR,Cancelado,3
+PED-0351,,Elisa Ferreira,elisa.ferreira21@gmail.com,Teclado Mecanico,Mobile,3,2800.59,0.18,2023-07-13,sp,entregue,0
+PED-0352,CLI-3757,Elisa Ferreira,elisa.ferreira73@gmail.com,SSD 1TB,Mobile,8,606.83,0.21,28/07/2023,S P,entregue,N/A
+PED-0353,CLI-2737,Carla Mendes,carla.mendes04@gmail.com,iPhone 14,Informatica,8,-3400.7,0.18,05/05/2023,Sao Paulo,devolvido,1
+PED-0354,CLI-5635,Ana Silva,ana.silva96gmail.com,Teclado Mecanico,Eletronicos,10,4756.94,0.16,2023-05-13,GO,Entregue,N/A
+PED-0355,CLI-8083,Elisa Ferreira,elisa.ferreira88@gmail.com,iPhone 14,Eletronicos,4,856.56,0.21,2023-06-07,RJ,pendente,N/A
+PED-0356,,Fabio Lima,fabio.lima60@gmail.com,SSD 1TB,Acessorios,10,3021.69,0.37,10/07/2023,Rio,ENTREGUE,0
+PED-0357,CLI-5073,Elisa Ferreira,elisa.ferreira73gmail.com,iPhone 14,Acessorios,8,2214.91,0.2,11-05-2023,SP,Entregue,6
+PED-0358,,ana silva,ana.silva91@gmail.com,Tablet Samsung,Acessorios,6,1311.56,0.25,2024-04-18,sp,devolvido,3
+PED-0359,CLI-1217,BRUNO COSTA,bruno.costa59@gmail.com,Fone JBL,Informatica,2,3747.8,0.12,2023-01-19,Rio,devolvido,
+PED-0360,CLI-1439,Carla Mendes,carla.mendes84@gmail.com,Webcam Logitech,Acessorios,2,,0.03,17-01-2023,rj,cancelado,3
+PED-0361,CLI-8364,Diego Souza,diego.souza38@gmail.com,SSD 1TB,Mobile,1,626.47,0.0,N/A,SP,pendente,N/A
+PED-0362,CLI-8993,Ana Silva,ana.silva68gmail.com,Webcam Logitech,Mobile,10,2999.41,0.11,12-05-2024,rj,Entregue,6
+PED-0363,CLI-6633,Carla  Mendes,carla..mendes29@gmail.com,iPhone 14,Mobile,,4697.87,0.05,22-10-2023,S P,devolvido,N/A
+PED-0364,CLI-3839, Diego Souza,diego.souza63@gmail.com,Webcam Logitech,Acessorios,8,4008.79,0.09,30-03-2023,sp,Cancelado,1
+PED-0365,CLI-4714,Diego Souza,diego.souza63@gmail.com,Teclado Mecanico,Acessorios,6,3400.79,0.31,07/03/2023,RS,entregue,3
+PED-0366,CLI-2669,Ana Silva,ana.silva65@gmail.com,Monitor LG 24,TV e Video,2,3546.7,0.06,2023-04-24,BA,pendente,6
+PED-0367,CLI-1107,BRUNO COSTA,bruno.costa44@gmail.com,Monitor LG 24,Mobile,2,813.76,0.29,26/07/2023,PR,pendente,4
+PED-0368,CLI-6927,BRUNO COSTA,bruno.costa19@gmail.com,Samsung TV 55,TV e Video,7,3946.72,0.03,14-04-2024,rj,Entregue,3
+PED-0369,CLI-9516,ana silva,ana.silva52@gmail.com,Webcam Logitech,Eletronicos,7,3808.0,1.92,01-03-2023,PR,pendente,0
+PED-0370,CLI-7627,Elisa Ferreira,elisa.ferreira11gmail.com,Tablet Samsung,Informatica,7,2258.64,0.21,28-03-2024,Rio,ENTREGUE,4
+PED-0371,CLI-5979,Carla  Mendes,carla..mendes15@gmail.com,iPhone 14,TV e Video,,1595.65,0.05,2023-09-22,PR,pendente,2
+PED-0372,CLI-5902, Diego Souza,diego.souza87@gmail.com,SSD 1TB,Acessorios,10,3697.45,0.04,30-06-2024,Rio,cancelado,4
+PED-0373,CLI-8309,Carla  Mendes,carla..mendes52@gmail.com,Teclado Mecanico,Mobile,2,775.44,0.23,2024-03-11,GO,Cancelado,6
+PED-0374,CLI-4483,Ana Silva,ana.silva96@gmail.com,SSD 1TB,Mobile,3,764.51,0.04,09-06-2024,RJ,Pendente,5
+PED-0375,,Elisa Ferreira,elisa.ferreira37@gmail.com,Notebook Dell,TV e Video,3,632.82,0.05,2023-01-29,sp,entregue,1
+PED-0376,CLI-8551,BRUNO COSTA,bruno.costa20@gmail.com,Webcam Logitech,Mobile,10,1583.02,0.15,2023-05-16,S P,Pendente,
+PED-0377,CLI-2395, Diego Souza,diego.souza70@gmail.com,Monitor LG 24,Eletronicos,8,3692.77,0.3,13-11-2023,S P,cancelado,1
+PED-0378,CLI-6249,Ana Silva,,iPhone 14,TV e Video,3,4813.76,0.17,2024-03-30,GO,ENTREGUE,
+PED-0379,CLI-7672,Ana Silva,ana.silva79@gmail.com,Webcam Logitech,Acessorios,2,617.49,0.12,2023-09-19,Rio,entregue,3
+PED-0380,CLI-9264,Bruno Costa,bruno.costa35gmail.com,Webcam Logitech,Acessorios,5,1908.79,0.19,31/08/2023,GO,Entregue,4
+PED-0381,CLI-8306,Carla  Mendes,carla..mendes27@gmail.com,Notebook Dell,Acessorios,9,4819.2,0.31,09/05/2023,rj,ENTREGUE,N/A
+PED-0382,CLI-8900,Elisa Ferreira,elisa.ferreira88@gmail.com,Monitor LG 24,Mobile,1,54.96,0.23,2023-06-21,Sao Paulo,cancelado,1
+PED-0383,CLI-9270,Fabio Lima,fabio.lima88@gmail.com,Samsung TV 55,TV e Video,10,396.18,0.11,14/10/2023,Rio,devolvido,
+PED-0384,CLI-1156,ana silva,ana.silva72@gmail.com,Teclado Mecanico,Informatica,8,4797.01,0.31,03-01-2023,GO,Entregue,2
+PED-0385,CLI-1138,Fabio Lima,fabio.lima25@gmail.com,Monitor LG 24,Eletronicos,8,3377.62,0.27,02/01/2024,SP,Cancelado,4
+PED-0386,,ana silva,ana.silva15@gmail.com,iPhone 14,TV e Video,5,4051.65,0.22,07/02/2023,sp,ENTREGUE,3
+PED-0387,CLI-4143,Ana Silva,ana.silva89@gmail.com,iPhone 14,TV e Video,3,3742.57,0.0,19-06-2024,Sao Paulo,devolvido,1
+PED-0388,CLI-5553,Carla  Mendes,carla..mendes58@gmail.com,Teclado Mecanico,Mobile,7,1406.48,0.35,14-02-2023,RS,Entregue,4
+PED-0389,CLI-1393,Fabio Lima,fabio.lima33@gmail.com,Webcam Logitech,Eletronicos,4,1024.54,0.33,29/01/2023,RS,entregue,4
+PED-0390,CLI-2065,Ana Silva,ana.silva57gmail.com,iPhone 14,TV e Video,10,2220.72,0.04,2023-03-04,GO,Entregue,1
+PED-0391,CLI-8014, Diego Souza,diego.souza13@gmail.com,Mouse Logitech,Mobile,7,524.36,0.21,11/01/2023,SP,devolvido,2
+PED-0392,CLI-6822, Diego Souza,diego.souza57@gmail.com,iPhone 14,Eletronicos,10,3580.83,0.05,10-05-2023,SP,entregue,0
+PED-0393,CLI-1132,Carla Mendes,carla.mendes08@gmail.com,Teclado Mecanico,Acessorios,10,4431.85,0.17,18/12/2023,rj,entregue,4
+PED-0394,CLI-6499,ana silva,ana.silva43@gmail.com,Fone JBL,Eletronicos,6,987.31,1.83,06-12-2023,SP,devolvido,4
+PED-0395,CLI-1110,Bruno Costa,bruno.costa46gmail.com,SSD 1TB,TV e Video,4,1233.14,0.08,2024-01-20,PR,devolvido,
+PED-0396,,Elisa Ferreira,elisa.ferreira13gmail.com,Notebook Dell,Eletronicos,4,1029.23,0.14,14-12-2023,GO,Entregue,6
+PED-0397,CLI-3366,Carla Mendes,carla.mendes25@gmail.com,Fone JBL,Acessorios,6,3321.5,0.24,20-03-2024,RS,pendente,4
+PED-0398,CLI-3071, Diego Souza,diego.souza63@gmail.com,Notebook Dell,TV e Video,10,986.06,0.07,24-02-2023,sp,Entregue,0
+PED-0399,CLI-7569, Diego Souza,diego.souza84gmail.com,Teclado Mecanico,Mobile,9,2348.12,0.35,21/05/2024,BA,devolvido,5
+PED-0400,CLI-6760,Ana Silva,ana.silva60@gmail.com,Webcam Logitech,Mobile,10,828.19,0.17,28/03/2023,sp,devolvido,6
+PED-0401,CLI-9401,Bruno Costa,bruno.costa36@gmail.com,Teclado Mecanico,Acessorios,7,172.36,0.02,26/03/2023,RJ,pendente,4
+PED-0402,,Elisa Ferreira,elisa.ferreira37@gmail.com,Teclado Mecanico,Acessorios,5,3738.8,0.33,22-05-2023,GO,Pendente,1
+PED-0403,CLI-8679,BRUNO COSTA,bruno.costa44@gmail.com,SSD 1TB,TV e Video,3,4334.06,0.31,28-08-2023,BA,Pendente,4
+PED-0404,CLI-6810,ana silva,ana.silva55@gmail.com,SSD 1TB,Mobile,9,199.02,2.68,10/01/2023,Rio,Cancelado,3
+PED-0405,CLI-2043,Diego Souza,diego.souza61@gmail.com,Samsung TV 55,Acessorios,10,3167.7,0.04,2024-01-26,sp,Cancelado,0
+PED-0406,CLI-9591,Ana Silva,ana.silva48@gmail.com,Samsung TV 55,Eletronicos,10,2468.64,0.06,2023-10-18,GO,Pendente,0
+PED-0407,CLI-8778, Diego Souza,diego.souza40@gmail.com,Webcam Logitech,Mobile,2,1975.51,1.71,14/11/2023,Sao Paulo,devolvido,2
+PED-0408,CLI-8476,Elisa Ferreira,elisa.ferreira51@gmail.com,Webcam Logitech,TV e Video,4,2652.99,0.1,10-02-2023,MG,Pendente,N/A
+PED-0409,CLI-9810,Bruno Costa,bruno.costa90@gmail.com,SSD 1TB,Mobile,,3507.68,0.4,11/06/2023,sp,Pendente,
+PED-0410,CLI-2199,BRUNO COSTA,bruno.costa49@gmail.com,iPhone 14,Eletronicos,9,3844.37,0.02,2024-06-02,BA,Pendente,3
+PED-0411,CLI-5573,Carla Mendes,carla.mendes03@gmail.com,Teclado Mecanico,Mobile,8,2333.72,0.07,2024-03-24,RJ,Pendente,1
+PED-0412,CLI-9566,Bruno Costa,bruno.costa50@gmail.com,Mouse Logitech,Informatica,8,-1822.53,0.02,10/08/2023,S P,entregue,4
+PED-0413,CLI-2035,Bruno Costa,bruno.costa86@gmail.com,Fone JBL,Acessorios,,,0.33,15/01/2023,GO,Entregue,4
+PED-0414,,Diego Souza,diego.souza59@gmail.com,Tablet Samsung,Informatica,9,2005.57,0.02,N/A,PR,pendente,N/A
+PED-0415,CLI-6314,ana silva,ana.silva87@gmail.com,Mouse Logitech,TV e Video,8,4916.36,0.07,25/06/2023,MG,pendente,
+PED-0416,CLI-1217, Diego Souza,diego.souza98@gmail.com,SSD 1TB,Eletronicos,6,137.36,0.3,27-08-2023,Rio,Pendente,1
+PED-0417,CLI-3199,Ana Silva,ana.silva67@gmail.com,Samsung TV 55,Acessorios,,1518.24,0.09,30-03-2024,PR,entregue,
+PED-0418,CLI-9543,BRUNO COSTA,bruno.costa81gmail.com,Fone JBL,Informatica,9,317.67,0.02,16-08-2023,RJ,cancelado,4
+PED-0419,CLI-6103,Diego Souza,diego.souza32@gmail.com,Samsung TV 55,Eletronicos,3,2983.52,0.23,22/03/2023,PR,Cancelado,4
+PED-0420,CLI-8101,BRUNO COSTA,bruno.costa03@gmail.com,Mouse Logitech,Mobile,2,4757.52,0.24,08-03-2024,RJ,Cancelado,3
+PED-0421,CLI-4206,Diego Souza,diego.souza01gmail.com,Mouse Logitech,Mobile,8,1563.94,0.2,2023-12-08,Rio,pendente,N/A
+PED-0422,CLI-3660,ana silva,ana.silva33@gmail.com,Teclado Mecanico,Mobile,8,1573.66,0.25,08/05/2023,RS,devolvido,1
+PED-0423,CLI-3422,BRUNO COSTA,bruno.costa88@gmail.com,Webcam Logitech,Mobile,4,,0.0,29-01-2023,S P,ENTREGUE,N/A
+PED-0424,CLI-9735,ana silva,ana.silva76@gmail.com,Webcam Logitech,TV e Video,2,2616.76,0.04,16-09-2023,Rio,Entregue,
+PED-0425,CLI-7845,Elisa Ferreira,elisa.ferreira94@gmail.com,Samsung TV 55,Acessorios,4,4653.58,0.08,2024-05-18,MG,ENTREGUE,2
+PED-0426,CLI-7697, Diego Souza,diego.souza14@gmail.com,SSD 1TB,TV e Video,4,,0.15,16/07/2023,PR,Entregue,
+PED-0427,CLI-1685,Carla  Mendes,carla..mendes01@gmail.com,Notebook Dell,TV e Video,4,2415.59,0.19,08-01-2023,PR,devolvido,N/A
+PED-0428,CLI-6833,Bruno Costa,bruno.costa01@gmail.com,Teclado Mecanico,Acessorios,6,4997.25,0.01,23-01-2024,Rio,ENTREGUE,0
+PED-0429,,Fabio Lima,fabio.lima06@gmail.com,Mouse Logitech,Informatica,6,2286.99,0.09,2023-07-12,Sao Paulo,devolvido,2
+PED-0430,CLI-3345, Diego Souza,diego.souza92@gmail.com,Teclado Mecanico,Mobile,8,4935.01,0.33,28-10-2023,RJ,Cancelado,6
+PED-0431,CLI-1478,Fabio Lima,fabio.lima50@gmail.com,Samsung TV 55,Mobile,2,2436.73,0.38,2023-04-02,PR,devolvido,3
+PED-0432,CLI-7252,Carla  Mendes,carla..mendes56@gmail.com,Monitor LG 24,Mobile,2,3987.93,0.04,08-03-2023,RJ,Cancelado,4
+PED-0433,CLI-4110,ana silva,ana.silva41@gmail.com,iPhone 14,TV e Video,6,680.72,2.78,2023-11-15,MG,cancelado,
+PED-0434,CLI-9230,Bruno Costa,bruno.costa36@gmail.com,Samsung TV 55,Acessorios,4,2524.17,0.2,05-02-2023,sp,cancelado,N/A
+PED-0435,CLI-7419,Carla Mendes,carla.mendes03@gmail.com,Notebook Dell,Acessorios,3,4148.03,0.4,2023-02-23,Sao Paulo,devolvido,N/A
+PED-0436,CLI-1886,Elisa Ferreira,elisa.ferreira59@gmail.com,iPhone 14,TV e Video,5,1447.7,0.12,2023-04-10,sp,devolvido,4
+PED-0437,CLI-7997,Carla Mendes,carla.mendes08@gmail.com,Fone JBL,Eletronicos,6,3643.49,0.05,01/06/2023,MG,entregue,
+PED-0438,CLI-3826,ana silva,ana.silva89@gmail.com,Tablet Samsung,Mobile,3,-3153.51,0.35,15/05/2024,RJ,devolvido,5
+PED-0439,CLI-8856,Bruno Costa,bruno.costa76@gmail.com,SSD 1TB,Acessorios,1,644.0,0.12,N/A,Sao Paulo,Pendente,
+PED-0440,CLI-9830,Bruno Costa,bruno.costa97@gmail.com,iPhone 14,TV e Video,3,2056.39,0.34,26/06/2024,RJ,ENTREGUE,1
+PED-0441,CLI-3043,Fabio Lima,fabio.lima70@gmail.com,Monitor LG 24,Mobile,6,659.07,2.92,2023-09-20,Sao Paulo,entregue,5
+PED-0442,CLI-4438,Ana Silva,ana.silva31gmail.com,Monitor LG 24,Mobile,3,2906.5,0.24,27-12-2023,BA,ENTREGUE,
+PED-0443,CLI-5164,Carla Mendes,carla.mendes69@gmail.com,Mouse Logitech,Informatica,10,2138.97,0.29,17/06/2023,PR,cancelado,0
+PED-0444,CLI-9707,Carla  Mendes,carla..mendes53gmail.com,Tablet Samsung,Informatica,7,4116.76,0.31,2023-09-11,RS,pendente,4
+PED-0445,CLI-6022,BRUNO COSTA,bruno.costa13@gmail.com,Mouse Logitech,Eletronicos,2,1916.92,0.24,2023-05-07,PR,Cancelado,3
+PED-0446,,Carla  Mendes,carla..mendes92@gmail.com,Teclado Mecanico,Mobile,3,1758.61,0.02,17/02/2024,GO,Cancelado,
+PED-0447,CLI-8008,Diego Souza,diego.souza40@gmail.com,Fone JBL,TV e Video,7,3548.59,0.31,29/05/2024,PR,Pendente,2
+PED-0448,CLI-7946,Carla Mendes,carla.mendes62@gmail.com,iPhone 14,Informatica,2,,0.16,2024-05-19,Sao Paulo,Entregue,1
+PED-0449,CLI-8350,Carla  Mendes,carla..mendes29@gmail.com,Webcam Logitech,TV e Video,6,1258.92,0.38,24-06-2024,MG,pendente,N/A
+PED-0450,CLI-5809,Ana Silva,ana.silva95@gmail.com,Samsung TV 55,Acessorios,2,1722.9,0.37,01/05/2023,PR,entregue,6
+PED-0451,CLI-2660,Diego Souza,diego.souza11@gmail.com,Notebook Dell,Acessorios,,3096.87,2.65,10/07/2023,GO,Entregue,5
+PED-0452,CLI-8198,Fabio Lima,fabio.lima96@gmail.com,Fone JBL,Mobile,7,1902.83,0.04,2023-10-03,Rio,cancelado,3
+PED-0453,CLI-9119,Carla Mendes,carla.mendes42@gmail.com,Webcam Logitech,Mobile,6,4509.94,0.05,2023-09-30,GO,Pendente,1
+PED-0454,CLI-1131,Elisa Ferreira,elisa.ferreira37@gmail.com,Samsung TV 55,Informatica,6,2525.0,0.29,17/12/2023,BA,ENTREGUE,5
+PED-0455,CLI-3968, Diego Souza,diego.souza81@gmail.com,iPhone 14,Acessorios,4,3348.34,0.02,16-04-2023,MG,Pendente,3
+PED-0456,CLI-8851,ana silva,ana.silva83gmail.com,Webcam Logitech,Eletronicos,10,1038.24,0.38,2023-08-25,RS,Cancelado,4
+PED-0457,CLI-2650,Elisa Ferreira,elisa.ferreira63@gmail.com,Teclado Mecanico,Eletronicos,3,,0.27,06/08/2023,RJ,entregue,3
+PED-0458,CLI-2429,Carla Mendes,carla.mendes81@gmail.com,Teclado Mecanico,Acessorios,6,3727.51,0.08,2023-10-10,S P,cancelado,2
+PED-0459,CLI-7851,Elisa Ferreira,elisa.ferreira98@gmail.com,iPhone 14,TV e Video,10,1747.34,0.18,2023-06-07,RS,pendente,N/A
+PED-0460,, Diego Souza,diego.souza08@gmail.com,iPhone 14,Mobile,7,2642.63,0.2,08-10-2023,Rio,Pendente,0
+PED-0461,CLI-3621, Diego Souza,diego.souza90gmail.com,iPhone 14,Informatica,8,3766.1,0.2,2023-10-06,rj,devolvido,5
+PED-0462,CLI-3427,Elisa Ferreira,elisa.ferreira18@gmail.com,Mouse Logitech,Informatica,,3555.86,0.4,N/A,Sao Paulo,cancelado,2
+PED-0463,CLI-5831,Ana Silva,ana.silva81@gmail.com,Notebook Dell,Acessorios,10,4862.48,0.07,28-09-2023,BA,Cancelado,0
+PED-0464,CLI-5403,ana silva,ana.silva20@gmail.com,Tablet Samsung,Eletronicos,7,4731.0,0.06,31/07/2023,GO,pendente,6
+PED-0465,CLI-6081,Carla Mendes,carla.mendes51@gmail.com,Samsung TV 55,Mobile,3,4087.21,0.17,04-07-2023,MG,Entregue,N/A
+PED-0466,CLI-1716,Bruno Costa,bruno.costa35@gmail.com,iPhone 14,TV e Video,3,3647.48,0.38,2023-01-22,SP,entregue,
+PED-0467,CLI-1915,Elisa Ferreira,,iPhone 14,Informatica,3,2428.11,0.22,06/12/2023,SP,Entregue,N/A
+PED-0468,CLI-2841,Bruno Costa,bruno.costa29@gmail.com,Samsung TV 55,Eletronicos,4,168.8,0.25,20-08-2023,RS,Entregue,2
+PED-0469,CLI-5702,Bruno Costa,bruno.costa35@gmail.com,Notebook Dell,TV e Video,3,931.44,0.32,03-06-2023,PR,Entregue,3
+PED-0470,CLI-5562,Fabio Lima,fabio.lima17@gmail.com,Samsung TV 55,Acessorios,3,1983.47,0.17,2023-03-10,RS,devolvido,N/A
+PED-0471,CLI-9724,Diego Souza,diego.souza50@gmail.com,Tablet Samsung,Acessorios,3,4020.6,0.28,24-05-2024,rj,cancelado,1
+PED-0472,CLI-3283,Carla Mendes,carla.mendes71@gmail.com,Fone JBL,Eletronicos,,2813.95,0.33,24/12/2023,BA,cancelado,3
+PED-0473,CLI-8812,Carla Mendes,carla.mendes04@gmail.com,iPhone 14,Informatica,,3678.75,0.0,19-04-2023,BA,Entregue,N/A
+PED-0474,CLI-1216,Carla Mendes,,Samsung TV 55,Informatica,8,3730.61,0.0,26-02-2024,MG,ENTREGUE,6
+PED-0475,CLI-3050,ana silva,ana.silva80gmail.com,Monitor LG 24,Acessorios,10,2534.27,0.33,05-04-2023,Rio,Entregue,
+PED-0476,,Elisa Ferreira,elisa.ferreira21@gmail.com,Webcam Logitech,Mobile,3,320.62,0.3,2023-04-17,S P,entregue,0
+PED-0477,CLI-2527,Ana Silva,ana.silva46@gmail.com,Fone JBL,Eletronicos,4,1382.38,0.13,N/A,rj,cancelado,
+PED-0478,CLI-7260,Ana Silva,ana.silva38@gmail.com,Samsung TV 55,Eletronicos,6,2066.07,0.38,2023-06-03,RJ,Entregue,4
+PED-0479,CLI-6554, Diego Souza,diego.souza56gmail.com,Samsung TV 55,Informatica,9,2605.69,0.1,16/12/2023,Sao Paulo,Pendente,2
+PED-0480,CLI-2428,BRUNO COSTA,bruno.costa41@gmail.com,Samsung TV 55,TV e Video,8,,0.23,13-11-2023,RJ,Cancelado,2
+PED-0481,,Elisa Ferreira,elisa.ferreira52@gmail.com,Samsung TV 55,Mobile,5,4931.41,0.18,2023-05-24,Sao Paulo,ENTREGUE,
+PED-0482,CLI-1130,Bruno Costa,bruno.costa38@gmail.com,Teclado Mecanico,Eletronicos,7,2554.42,0.16,28-02-2023,RJ,cancelado,2
+PED-0483,CLI-4268,Bruno Costa,bruno.costa41@gmail.com,Teclado Mecanico,Mobile,8,3230.3,0.05,21/04/2023,BA,devolvido,0
+PED-0484,CLI-6922,BRUNO COSTA,bruno.costa28gmail.com,Samsung TV 55,Mobile,3,-3219.07,0.11,2024-01-25,Sao Paulo,Pendente,2
+PED-0485,CLI-5250,Ana Silva,ana.silva12@gmail.com,Samsung TV 55,Eletronicos,5,2055.09,0.08,2024-06-21,PR,ENTREGUE,6
+PED-0486,CLI-4253, Diego Souza,diego.souza79@gmail.com,SSD 1TB,TV e Video,3,4829.67,0.01,11-01-2023,Rio,pendente,3
+PED-0487,,Diego Souza,diego.souza54@gmail.com,SSD 1TB,Acessorios,2,3970.48,0.09,2024-04-06,S P,Pendente,4
+PED-0488,CLI-8471,Fabio Lima,fabio.lima46@gmail.com,Tablet Samsung,Eletronicos,6,,0.37,2024-05-29,RS,Entregue,
+PED-0489,CLI-2625,Bruno Costa,bruno.costa12@gmail.com,Samsung TV 55,TV e Video,10,855.15,0.2,23-03-2024,GO,Entregue,0
+PED-0490,CLI-8448,Bruno Costa,bruno.costa26@gmail.com,iPhone 14,Mobile,9,,0.17,2024-03-06,RS,devolvido,N/A
+PED-0491,,Ana Silva,ana.silva20@gmail.com,Notebook Dell,Acessorios,4,2562.43,0.13,29-02-2024,rj,pendente,N/A
+PED-0492,CLI-7396,Carla Mendes,carla.mendes52@gmail.com,Fone JBL,TV e Video,7,1003.67,0.04,2024-03-15,GO,cancelado,0
+PED-0493,CLI-1420, Diego Souza,diego.souza20gmail.com,iPhone 14,TV e Video,7,4223.0,0.01,2023-11-27,RJ,Pendente,6
+PED-0494,CLI-5505,Carla Mendes,carla.mendes81gmail.com,Teclado Mecanico,Informatica,4,3279.99,0.18,23/01/2024,RJ,Entregue,2
+PED-0495,CLI-1359,BRUNO COSTA,bruno.costa81gmail.com,Samsung TV 55,Acessorios,5,4478.29,0.25,01/08/2023,GO,pendente,3
+PED-0496,CLI-8928, Diego Souza,diego.souza70gmail.com,Samsung TV 55,Acessorios,1,4523.01,1.53,01/05/2023,PR,Entregue,0
+PED-0497,CLI-4264,Fabio Lima,fabio.lima91@gmail.com,Samsung TV 55,Informatica,6,618.2,0.17,10/05/2023,Rio,devolvido,4
+PED-0498,CLI-8992,BRUNO COSTA,bruno.costa55@gmail.com,Mouse Logitech,Informatica,4,3450.93,0.24,2023-11-16,RS,Entregue,
+PED-0499,CLI-9691,Ana Silva,ana.silva15@gmail.com,Teclado Mecanico,Eletronicos,8,,0.1,24/02/2024,MG,pendente,
+PED-0500,CLI-4811,ana silva,ana.silva37@gmail.com,Teclado Mecanico,Informatica,6,-655.4,0.29,21-04-2024,RJ,Cancelado,2
+PED-0501,CLI-3033, Diego Souza,diego.souza42@gmail.com,Webcam Logitech,Mobile,6,4076.3,0.01,17/02/2023,SP,Cancelado,1
+PED-0502,CLI-7800,Elisa Ferreira,elisa.ferreira41@gmail.com,Mouse Logitech,Informatica,7,233.19,1.95,2023-01-17,rj,pendente,6
+PED-0503,CLI-4708,Diego Souza,diego.souza93@gmail.com,iPhone 14,Acessorios,10,558.58,0.37,27-11-2023,rj,entregue,5
+PED-0504,CLI-3257,Bruno Costa,bruno.costa17@gmail.com,Notebook Dell,Eletronicos,1,4738.37,0.25,24/01/2024,S P,Pendente,0
+PED-0505,CLI-6783,Diego Souza,diego.souza85@gmail.com,Tablet Samsung,Mobile,8,4882.93,0.03,28/09/2023,Rio,Entregue,4
+PED-0111,CLI-6108,Carla Mendes,carla.mendes65@gmail.com,SSD 1TB,Mobile,4,2463.85,0.39,10/06/2024,RS,Pendente,0
+PED-0507,CLI-2755,Diego Souza,diego.souza03@gmail.com,Webcam Logitech,Informatica,2,1425.3,0.26,2023-04-15,SP,devolvido,5
+PED-0508,,ana silva,ana.silva94@gmail.com,Monitor LG 24,Eletronicos,6,2185.79,0.07,24/02/2023,BA,Pendente,6
+PED-0509,CLI-2655, Diego Souza,diego.souza90@gmail.com,iPhone 14,Eletronicos,,4796.91,0.29,2023-09-30,RJ,cancelado,5
+PED-0510,CLI-8811,Diego Souza,diego.souza22@gmail.com,Samsung TV 55,Informatica,,3202.65,0.36,09-07-2023,MG,pendente,1
+PED-0511,CLI-8763,BRUNO COSTA,,Webcam Logitech,Acessorios,1,928.7,0.33,10-01-2023,SP,Cancelado,3
+PED-0512,CLI-6968,Fabio Lima,fabio.lima39@gmail.com,iPhone 14,Eletronicos,5,4029.27,0.05,21-09-2023,Sao Paulo,devolvido,1
+PED-0513,CLI-2462,ana silva,ana.silva82@gmail.com,Webcam Logitech,Informatica,3,,0.39,17/03/2024,Sao Paulo,devolvido,3
+PED-0514,CLI-3014,BRUNO COSTA,bruno.costa73@gmail.com,Teclado Mecanico,Acessorios,7,2966.28,0.39,16-06-2024,PR,Entregue,3
+PED-0515,CLI-4560, Diego Souza,diego.souza16gmail.com,Samsung TV 55,TV e Video,5,3137.79,1.88,2023-10-29,GO,pendente,
+PED-0516,CLI-5764,BRUNO COSTA,bruno.costa46@gmail.com,Monitor LG 24,TV e Video,3,4770.74,0.16,18-03-2024,GO,Pendente,5
+PED-0517,CLI-4268,Bruno Costa,bruno.costa39@gmail.com,Tablet Samsung,Acessorios,3,2841.34,0.15,24/07/2023,rj,ENTREGUE,N/A
+PED-0453,CLI-7896,Carla Mendes,carla.mendes79@gmail.com,Teclado Mecanico,TV e Video,6,2368.48,0.05,N/A,S P,pendente,5
+PED-0403,CLI-2753,Bruno Costa,bruno.costa38@gmail.com,Samsung TV 55,Mobile,1,2340.9,0.3,2023-03-28,SP,Entregue,1
+PED-0520,CLI-1105, Diego Souza,diego.souza89@gmail.com,Monitor LG 24,Informatica,9,3715.1,0.21,08/06/2023,MG,Entregue,2
+PED-0521,CLI-8194, Diego Souza,diego.souza16@gmail.com,Monitor LG 24,Mobile,7,325.48,0.33,29-08-2023,MG,ENTREGUE,3
+PED-0522,CLI-7321,Bruno Costa,bruno.costa60@gmail.com,Monitor LG 24,Informatica,8,2428.31,0.18,12-01-2024,SP,Cancelado,1
+PED-0523,CLI-3593,Carla  Mendes,carla..mendes27@gmail.com,Notebook Dell,TV e Video,8,261.03,0.07,N/A,GO,Entregue,
+PED-0524,CLI-3955,Carla  Mendes,carla..mendes85@gmail.com,Samsung TV 55,Acessorios,5,,0.23,10/05/2024,RS,pendente,2
+PED-0163,CLI-3850,ana silva,ana.silva97@gmail.com,Fone JBL,Eletronicos,2,2522.2,0.05,2023-08-31,SP,Cancelado,2
+PED-0526,CLI-8168,Diego Souza,diego.souza26@gmail.com,Teclado Mecanico,TV e Video,1,4621.58,2.94,2023-07-24,rj,cancelado,2
+PED-0527,CLI-4399,BRUNO COSTA,bruno.costa65@gmail.com,Samsung TV 55,Eletronicos,6,3883.21,0.32,24/06/2024,rj,ENTREGUE,N/A
+PED-0528,CLI-5749,Elisa Ferreira,elisa.ferreira50@gmail.com,Tablet Samsung,Eletronicos,3,3922.82,0.03,2023-12-05,MG,Cancelado,0
+PED-0529,CLI-6538,Diego Souza,diego.souza43@gmail.com,Monitor LG 24,Acessorios,7,3112.29,0.37,N/A,BA,pendente,1
+PED-0530,CLI-2320,BRUNO COSTA,,iPhone 14,TV e Video,10,-3530.3,0.2,02-03-2024,SP,devolvido,N/A
+PED-0531,CLI-1296,Ana Silva,ana.silva50@gmail.com,Fone JBL,Eletronicos,1,180.45,0.22,24-01-2024,GO,Pendente,2
+PED-0532,CLI-9785,Ana Silva,ana.silva93@gmail.com,Teclado Mecanico,Acessorios,4,1748.47,0.18,2023-01-11,SP,ENTREGUE,
+PED-0533,CLI-6848,Diego Souza,diego.souza57@gmail.com,Fone JBL,Acessorios,3,3050.31,0.35,14-09-2023,rj,Cancelado,5
+PED-0534,CLI-3246,Carla  Mendes,carla..mendes30@gmail.com,Monitor LG 24,TV e Video,2,317.29,0.29,2023-10-14,RJ,pendente,1
+PED-0535,CLI-7290,ana silva,ana.silva50@gmail.com,SSD 1TB,Mobile,2,155.38,0.26,2023-11-04,GO,ENTREGUE,5
+PED-0357,CLI-8111,Ana Silva,ana.silva14@gmail.com,Notebook Dell,TV e Video,6,4617.36,0.34,29/01/2023,Sao Paulo,Cancelado,6
+PED-0537,CLI-5495,Diego Souza,diego.souza99@gmail.com,Tablet Samsung,TV e Video,5,854.62,0.25,2023-05-16,GO,entregue,5
+PED-0538,CLI-1145,Fabio Lima,fabio.lima62@gmail.com,Tablet Samsung,Eletronicos,2,1569.13,0.23,N/A,GO,entregue,0
+PED-0539,CLI-1812,Ana Silva,ana.silva24@gmail.com,iPhone 14,Mobile,3,1327.13,0.02,21-08-2023,S P,pendente,1
+PED-0540,CLI-9305,Carla  Mendes,carla..mendes10@gmail.com,Mouse Logitech,Acessorios,1,3408.02,0.03,29/08/2023,RS,Pendente,5
+PED-0541,,Carla Mendes,carla.mendes76gmail.com,Teclado Mecanico,TV e Video,6,1708.18,0.38,N/A,RS,pendente,1
+PED-0542,CLI-9646, Diego Souza,diego.souza61@gmail.com,Samsung TV 55,Mobile,2,4778.14,0.08,04-03-2024,RS,Cancelado,4
+PED-0543,CLI-9284,Fabio Lima,fabio.lima84@gmail.com,Teclado Mecanico,Informatica,8,1608.34,0.23,24/02/2024,GO,cancelado,3
+PED-0544,CLI-9274, Diego Souza,diego.souza64@gmail.com,Fone JBL,Mobile,10,3346.22,0.01,2023-05-01,MG,devolvido,5
+PED-0545,CLI-9672,ana silva,ana.silva46@gmail.com,SSD 1TB,Eletronicos,3,-4353.82,0.05,2023-03-16,BA,Cancelado,
+PED-0546,CLI-5739,Carla Mendes,carla.mendes94@gmail.com,Tablet Samsung,Eletronicos,1,415.08,2.39,05-04-2024,rj,Entregue,6
+PED-0547,CLI-9481, Diego Souza,diego.souza66@gmail.com,SSD 1TB,Informatica,9,3626.54,0.13,N/A,RS,Pendente,3
+PED-0216,CLI-8191,Carla Mendes,carla.mendes37@gmail.com,Webcam Logitech,TV e Video,5,2896.93,0.37,02/05/2023,S P,Entregue,3
+PED-0524,CLI-1422,Elisa Ferreira,elisa.ferreira74@gmail.com,Samsung TV 55,Eletronicos,10,4517.58,0.12,07/01/2023,MG,devolvido,2
+PED-0550,CLI-4644,Fabio Lima,fabio.lima21@gmail.com,Webcam Logitech,Mobile,5,479.98,0.28,2023-12-29,Sao Paulo,Entregue,1
+PED-0551,CLI-7163,Diego Souza,diego.souza87@gmail.com,Monitor LG 24,Acessorios,,4215.08,0.29,2023-01-09,sp,ENTREGUE,4
+PED-0552,CLI-7851, Diego Souza,diego.souza49@gmail.com,iPhone 14,TV e Video,4,,0.21,02-08-2023,RS,devolvido,5
+PED-0553,CLI-5706,BRUNO COSTA,bruno.costa42@gmail.com,Mouse Logitech,Mobile,8,3993.89,0.38,2023-04-09,MG,devolvido,
+PED-0554,CLI-6295,Fabio Lima,fabio.lima53@gmail.com,Samsung TV 55,Mobile,8,-3025.24,0.36,09/08/2023,GO,Cancelado,4
+PED-0555,CLI-3117,Ana Silva,ana.silva93gmail.com,Notebook Dell,Acessorios,8,2078.57,0.36,23-04-2023,Rio,pendente,0
+PED-0051,CLI-7125,Diego Souza,diego.souza71@gmail.com,Monitor LG 24,Informatica,6,2700.59,0.3,23/08/2023,SP,entregue,0
+PED-0557,CLI-3025,ana silva,ana.silva84@gmail.com,SSD 1TB,Eletronicos,3,,0.03,2023-09-11,PR,Entregue,N/A
+PED-0156,CLI-5490,Bruno Costa,bruno.costa34@gmail.com,iPhone 14,TV e Video,7,1011.71,0.17,N/A,GO,Cancelado,N/A
+PED-0559,CLI-8409,Ana Silva,ana.silva51@gmail.com,SSD 1TB,Acessorios,9,2557.64,0.26,17-01-2024,sp,Entregue,2
+PED-0174,CLI-5129,Fabio Lima,fabio.lima20gmail.com,Fone JBL,Mobile,10,1287.35,0.35,2023-08-27,S P,Pendente,4
+PED-0561,CLI-2334,ana silva,ana.silva90gmail.com,SSD 1TB,TV e Video,8,1599.43,0.21,10-06-2024,SP,ENTREGUE,4
+PED-0562,CLI-2926,Elisa Ferreira,elisa.ferreira93@gmail.com,iPhone 14,Eletronicos,7,2501.16,0.25,N/A,rj,pendente,3
+PED-0563,CLI-3217,BRUNO COSTA,bruno.costa02@gmail.com,Monitor LG 24,Informatica,10,4762.38,2.55,04/08/2023,sp,Entregue,4
+PED-0564,CLI-4156,ana silva,ana.silva75@gmail.com,Monitor LG 24,Mobile,6,518.84,0.22,20/08/2023,GO,Cancelado,4
+PED-0157,CLI-5542, Diego Souza,diego.souza86@gmail.com,iPhone 14,Informatica,5,932.71,0.4,28/01/2024,SP,cancelado,3
+PED-0566,CLI-5957,Bruno Costa,bruno.costa31@gmail.com,SSD 1TB,Eletronicos,6,435.05,0.14,11-03-2024,GO,devolvido,
+PED-0567,CLI-5104,Carla  Mendes,carla..mendes56@gmail.com,Tablet Samsung,Informatica,3,4730.18,0.31,28/03/2024,RS,devolvido,N/A
+PED-0568,CLI-6085,Fabio Lima,,Monitor LG 24,Informatica,7,1902.32,0.26,05-01-2024,PR,entregue,N/A
+PED-0260,CLI-9938,Ana Silva,ana.silva48gmail.com,Mouse Logitech,Eletronicos,10,4125.46,0.35,10/04/2024,MG,ENTREGUE,N/A
+PED-0570,CLI-1273,Fabio Lima,fabio.lima91@gmail.com,iPhone 14,Eletronicos,8,,0.21,2023-10-12,Rio,pendente,N/A
+PED-0571,CLI-4255,ana silva,ana.silva23@gmail.com,Notebook Dell,Eletronicos,4,4133.99,0.11,2024-03-30,SP,Cancelado,
+PED-0572,CLI-1329,Ana Silva,ana.silva28@gmail.com,iPhone 14,TV e Video,8,486.4,0.12,22-11-2023,Rio,cancelado,4
+PED-0573,CLI-5469,Carla Mendes,carla.mendes38@gmail.com,Samsung TV 55,Acessorios,1,1927.59,0.14,2024-02-28,RJ,devolvido,0
+PED-0574,CLI-5729,Carla  Mendes,carla..mendes71@gmail.com,Samsung TV 55,Eletronicos,10,1959.12,0.1,22-12-2023,RJ,cancelado,1
+PED-0575,CLI-6879,Ana Silva,ana.silva21@gmail.com,Monitor LG 24,Informatica,8,742.09,0.07,04/02/2023,Sao Paulo,Entregue,3
+PED-0576,CLI-5138, Diego Souza,diego.souza44@gmail.com,Samsung TV 55,Eletronicos,8,4055.65,0.31,13/02/2024,SP,cancelado,0
+PED-0577,CLI-9586, Diego Souza,diego.souza97@gmail.com,Webcam Logitech,Acessorios,10,,0.12,04-11-2023,SP,Entregue,
+PED-0578,CLI-8152,Diego Souza,diego.souza20@gmail.com,Samsung TV 55,Mobile,1,3310.11,0.19,2023-07-09,RS,entregue,6
+PED-0579,CLI-3187,Fabio Lima,fabio.lima37@gmail.com,Webcam Logitech,Informatica,8,3358.76,0.21,09/04/2023,GO,Pendente,1
+PED-0580,CLI-3262,Ana Silva,ana.silva28@gmail.com,Tablet Samsung,Informatica,4,1877.21,0.17,2024-02-12,GO,ENTREGUE,N/A
+PED-0581,CLI-6673,Bruno Costa,bruno.costa84@gmail.com,SSD 1TB,Eletronicos,5,4794.64,0.13,19/04/2023,SP,ENTREGUE,N/A
+PED-0582,CLI-8377,BRUNO COSTA,bruno.costa92@gmail.com,Notebook Dell,Mobile,7,,0.31,29-04-2023,RS,Entregue,0
+PED-0583,,BRUNO COSTA,bruno.costa59@gmail.com,iPhone 14,Informatica,1,1718.72,0.1,N/A,Sao Paulo,pendente,5
+PED-0584,CLI-1599,ana silva,ana.silva32@gmail.com,Notebook Dell,TV e Video,5,-934.7,0.25,06-02-2023,MG,ENTREGUE,5
+PED-0585,, Diego Souza,diego.souza93@gmail.com,SSD 1TB,TV e Video,4,4597.94,0.14,2024-04-14,GO,Entregue,5
+PED-0586,CLI-5967,Carla  Mendes,,Notebook Dell,Informatica,5,3621.89,0.09,2023-04-30,S P,devolvido,5
+PED-0587,CLI-1306,Carla Mendes,carla.mendes36@gmail.com,Samsung TV 55,Acessorios,9,3373.63,0.04,2023-10-07,Sao Paulo,pendente,
+PED-0588,CLI-1205,Fabio Lima,fabio.lima45@gmail.com,Tablet Samsung,Acessorios,10,4143.53,0.08,03/02/2024,Rio,devolvido,N/A
+PED-0589,CLI-6166,BRUNO COSTA,bruno.costa04@gmail.com,Notebook Dell,TV e Video,2,3175.35,0.23,26/06/2024,S P,pendente,1
+PED-0590,CLI-4462, Diego Souza,diego.souza38@gmail.com,Mouse Logitech,TV e Video,8,4948.92,0.22,2023-05-07,Rio,Pendente,4
+PED-0591,CLI-7425,ana silva,ana.silva64@gmail.com,Tablet Samsung,Acessorios,6,3863.97,0.37,22-11-2023,sp,ENTREGUE,5
+PED-0343,CLI-9247, Diego Souza,diego.souza74@gmail.com,SSD 1TB,Informatica,2,1947.6,0.07,30-01-2023,RS,cancelado,2
+PED-0593,CLI-3870,Diego Souza,diego.souza42@gmail.com,Notebook Dell,TV e Video,7,2782.68,0.23,13-01-2024,SP,cancelado,6
+PED-0594,,Ana Silva,ana.silva88@gmail.com,Samsung TV 55,Mobile,9,3224.83,0.03,2023-06-13,sp,Pendente,5
+PED-0595,CLI-1653,Carla  Mendes,carla..mendes81@gmail.com,Monitor LG 24,Eletronicos,10,-3253.09,0.06,03/03/2023,RJ,Entregue,2
+PED-0596,CLI-8507,BRUNO COSTA,bruno.costa97@gmail.com,Teclado Mecanico,Mobile,6,752.65,0.13,04-12-2023,PR,devolvido,5
+PED-0597,CLI-3593,Elisa Ferreira,elisa.ferreira61@gmail.com,Tablet Samsung,Eletronicos,3,782.72,0.06,07-01-2024,MG,ENTREGUE,N/A
+PED-0598,CLI-9467, Diego Souza,diego.souza22@gmail.com,Fone JBL,Eletronicos,4,-2936.99,0.21,04-06-2024,S P,pendente,6
+PED-0599,CLI-3459,Bruno Costa,bruno.costa84@gmail.com,Monitor LG 24,Mobile,3,2445.79,0.34,19/08/2023,S P,entregue,0
+PED-0600,CLI-9567,Elisa Ferreira,elisa.ferreira95@gmail.com,Fone JBL,Acessorios,1,2022.53,0.28,2023-03-23,BA,cancelado,1
